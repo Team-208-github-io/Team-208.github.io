@@ -2,6 +2,8 @@
 title: Home page
 ---
 
+
+
 # Project Title
 
 ## Class Information
@@ -17,3 +19,8 @@ Year: 2023
 * Kyle Selasky
 * Miles Wilson
 * Mingqi Yu
+
+
+---
+Project Requirements: Design Requirements 
+---
