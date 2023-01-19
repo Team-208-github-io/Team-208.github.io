@@ -19,7 +19,8 @@ Year: 2023
 * Kyle Selasky
 * Miles Wilson
 * Mingqi Yu
-
+ 
+ // Faf De Klerk is an amazing scrum-half (Kyle)
 
 ---
 Project Requirements: Design Requirements 
