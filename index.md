@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Home page
 ---
 
 # Project Title
