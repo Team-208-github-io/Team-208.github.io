@@ -1,14 +1,17 @@
+![asu](https://user-images.githubusercontent.com/122709159/213967775-f1117c93-3efb-41ed-b1aa-34e423750c9c.png)
+
 ## EGR314 Spring Semester Project
+ 
 **Team 208**
 
 **Project name: Nerve damage therapy glove**
 
 **Team members:**
 
-1. Felicia Szleszinski
-2. Kyle Selasky
-3. Miles Wilson
-4. Mingqi Yu
+1. _Felicia Szleszinski_
+2. _Kyle Selasky_
+3. _Miles Wilson_
+4. _Mingqi Yu_
 
 **Preparation date:** 1/22/2023 
 
@@ -31,16 +34,37 @@
 **Our Process:**
 * To complete user needs analysis, the team met online via Discord. This made sharing screens and files easy. Then we decided that Jamboard would be used to display and consolidate our ideas. Then each team member started to add user needs ideas to the board. No idea was rejected at first, all team members suggested and wrote whatever need they could think of. No team member rejected ideas at this point, this was merely to get a large pool of user needs on the table. Then we organized all the user needs into groups. This helped to reduce the number of repeat user needs in each category. Next, we ranked each section by how much the team valued them. Finally, we ranked every need in each category as well. This gave us a very good idea of what we value and absolutely need in the design. 
 
+![user needs ranked](https://user-images.githubusercontent.com/122709159/213968878-697e78d0-26be-4114-b271-7d2dc2a9d990.jpg)
 
 ## 3. Design Ideation
 
+![1](https://user-images.githubusercontent.com/122709159/213965963-f8247255-c0f5-45f7-b8b9-de3b4387599c.png) 
+
 * For our design ideation process we agreed on four main categories to focus on. They were electrical, movement, material, and miscellaneous. Then all team members started listing ideas for what the product should have based on the main categories. The best brainstorming method for us was Rapid Ideation. We looked at all of our benchmarked products and took the best from each of them while finding ways to improve them .Then we just started throwing everything we could think of onto the jamboard until we couldn't come up with any more ideas. Mind mapping didn't work for us as we started coming up with too many main ideas we wanted to focus on and was taking too much time. 
+
+![3](https://user-images.githubusercontent.com/122709159/213966327-d724d5fc-da0b-442a-a4be-13c727f222c8.png)
 
 * After coming up with all the ideas we then went through each one individually and determined whether we wanted to include it or not and whether or not they meant our requirements for the project. Miles drew the Balloon Grip Sensor Therapeutic Glove while Kyle drew the Variable Force Sensing Temperature/Pressure Glove and Mingqi did the Velcro on Fingers for Various Sizes.
 
+---
+**Balloon Grip Sensor Therapeutic Glove**
+---
+![Balloon Grip Sensor Therapeutic Glove](https://user-images.githubusercontent.com/122709159/213966462-f60028a3-5916-4f63-95ae-82ab78ccc513.png)
+---
+**Variable Force Sensing Temperature Pressure Glove**
+---
+![Variable Force Sensing Temperature Pressure Glove](https://user-images.githubusercontent.com/122709159/213966564-2cba5767-babe-4e55-85ea-b9585db0051f.png)
+--- 
+**Velcro on Fingers for Various Sizes**
+---
+![Velcro on Fingers for Various Sizes](https://user-images.githubusercontent.com/122709159/213966611-4041dacc-41a9-4ff9-aeaa-34a482402d6a.jpg)
+---
+
 ## 4. Presentation 1
 
-[Video of Presentation 1](https://embedded-systems-design.bitbucket.io/314/314-team-06-checkpoint-1/)
+![Jan  23 Checkpoint-1](https://user-images.githubusercontent.com/122709159/213969216-e0314781-86c9-40dc-9be9-0322e4fc1f9b.jpg)
+
+[Video of Presentation 1](https://www.youtube.com/watch?v=2TSZasZKMRI)
  
 ## Appendix A
 
@@ -52,6 +76,5 @@
 
 [Link to "Team 208's Jan. 23 Checkpoint-1"](https://docs.google.com/presentation/d/1hgJn6WouZ5ktR1tikmxeMw9MUZq5OlJOVkCAVtTWgRQ/edit?usp=sharing)
 
----
+
 Date: 1/22/2023 
----
