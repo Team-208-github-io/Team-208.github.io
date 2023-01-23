@@ -3,8 +3,6 @@
 
 **Project name: Nerve damage therapy glove**
 
-**Team 208**
-
 **Team members:**
 
 1. Felicia Szleszinski
@@ -43,6 +41,7 @@
 [Link to "Team 208's Charter"](https://docs.google.com/document/d/1KnbiiMYb2K0HKReNCJJwkJIaMzlF_pRPQoaXfeS1aX0/edit?usp=sharing)
 
 [Link to "Team 208 User Needs and Benchmarking"](https://docs.google.com/document/d/1yNhMk36OD9xKp0WGD0XdSZ_GKACv3c8gfcodrc5hSE0/edit?usp=sharing)
+
 ---
 Date: 1/22/2023 
 ---
