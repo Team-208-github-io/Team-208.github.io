@@ -21,14 +21,9 @@
 ## 1. Team Organization
 
 **Charter:**
-Based on our goals and through a team discussion, we constructed the following charter:
-
 * To be successful in our understanding of microcontroller programming while addressing how environmental sensing influences can affect real world applications in our final project.
 
 **Product Mission Statement:**
-
-Based on the project description and project requirements, Team 208 has come up with the following mission statement:
-
 * Our team will create an embedded systems device that senses at least two environmental conditions. This device will have at least one controlled response that reacts based on the sensory data. All sensing and actuation will be accomplished using serial communication. Our device will be used to solve a real world problem and will be demonstrated at the Polytechnic innovation showcase to industry professionals. The team will stay within budget and within the requirements of the 314 course. Some, but not all, of these requirements are surface mount components only, using cadence only, and board communication over wifi.
 
 
@@ -39,9 +34,9 @@ Based on the project description and project requirements, Team 208 has come up 
 
 ## 3. Design Ideation
 
-For our design ideation process we agreed on four main categories to focus on. They were electrical, movement, material, and miscellaneous. Then all team members started listing ideas for what the product should have based on the main categories. The best brainstorming method for us was Rapid Ideation. We looked at all of our benchmarked products and took the best from each of them while finding ways to improve them .Then we just started throwing everything we could think of onto the jamboard until we couldn't come up with any more ideas. Mind mapping didn't work for us as we started coming up with too many main ideas we wanted to focus on and was taking too much time. 
+* For our design ideation process we agreed on four main categories to focus on. They were electrical, movement, material, and miscellaneous. Then all team members started listing ideas for what the product should have based on the main categories. The best brainstorming method for us was Rapid Ideation. We looked at all of our benchmarked products and took the best from each of them while finding ways to improve them .Then we just started throwing everything we could think of onto the jamboard until we couldn't come up with any more ideas. Mind mapping didn't work for us as we started coming up with too many main ideas we wanted to focus on and was taking too much time. 
 
-After coming up with all the ideas we then went through each one individually and determined whether we wanted to include it or not and whether or not they meant our requirements for the project. Miles drew the Balloon Grip Sensor Therapeutic Glove while Kyle drew the Variable Force Sensing Temperature/Pressure Glove and Mingqi did the Velcro on Fingers for Various Sizes.
+* After coming up with all the ideas we then went through each one individually and determined whether we wanted to include it or not and whether or not they meant our requirements for the project. Miles drew the Balloon Grip Sensor Therapeutic Glove while Kyle drew the Variable Force Sensing Temperature/Pressure Glove and Mingqi did the Velcro on Fingers for Various Sizes.
 
 ## 4. Presentation 1
 
