@@ -5,23 +5,34 @@ title: Home page
 
 
 # Project Title
-
-## Class Information
-
 Class: EGR314
 Section ID: 18748
 Semester: Spring
 Year: 2023
 
-## Meet the Team
-
+## 1.Title
+Project name: 
+Team 208
+Team members:
 * Felicia Szleszinski
 * Kyle Selasky
 * Miles Wilson
 * Mingqi Yu
- 
- // Faf De Klerk is an amazing scrum-half (Kyle)
+Preparation date: 
+Arizona State University 
+Class: EGR314: Embedded Systems Design Project II
 
+ ## 2.Team Organization
+Charter:
+Mission Statement:
+
+ ## 3.User Needs, Benchmarking, and Requirements:
+ 
+ ## 4.Design Ideation:
+ 
+ ## 5.Presentation 1:
+ Video Link:
+ 
 ---
 Project Requirements: Design Requirements 
 ---
