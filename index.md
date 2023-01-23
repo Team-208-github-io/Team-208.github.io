@@ -46,7 +46,7 @@
 ![Balloon Grip Sensor Therapeutic Glove](https://user-images.githubusercontent.com/122709159/213966462-f60028a3-5916-4f63-95ae-82ab78ccc513.png)
 
 
-* **Variable Force Sensing Temperature Pressure Glove**
+
 ![Variable Force Sensing Temperature Pressure Glove](https://user-images.githubusercontent.com/122709159/213966564-2cba5767-babe-4e55-85ea-b9585db0051f.png)
  
  
