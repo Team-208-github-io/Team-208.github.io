@@ -30,7 +30,13 @@
 * To complete user needs analysis, the team met online via Discord. This made sharing screens and files easy. Then we decided that Jamboard would be used to display and consolidate our ideas. Then each team member started to add user needs ideas to the board. No idea was rejected at first, all team members suggested and wrote whatever need they could think of. No team member rejected ideas at this point, this was merely to get a large pool of user needs on the table. Then we organized all the user needs into groups. This helped to reduce the number of repeat user needs in each category. Next, we ranked each section by how much the team valued them. Finally, we ranked every need in each category as well. This gave us a very good idea of what we value and absolutely need in the design. 
 
 ## 3. Design Ideation
- 
+
+**Generated Ideas:**
+
+* For Team 208’s Design Ideation, we chose to look at what characteristics made our benchmarked examples successful products and how they could be improved upon. Listed below are one hundred ideas that discuss various aspects of potential design movements, material considerations, electrical component ideas, and other other potential successful characteristics. 
+Once we had come up with one hundred ideas, we separated them into color coordinated categories and grouped them based on their ability to meet our project requirements. 
+* Once we had decided upon three variations of a pressure and temperature regulated glove, we separated our initial grouped ideas into more developed product concepts, and ranked them as seen below. 
+
 ## 4. Presentation 1
 
 [Video of Presentation 1](https://embedded-systems-design.bitbucket.io/314/314-team-06-checkpoint-1/)
