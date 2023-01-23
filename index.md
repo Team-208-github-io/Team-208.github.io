@@ -8,10 +8,10 @@
 
 **Team members:**
 
-1. Felicia Szleszinski
-2. Kyle Selasky
-3. Miles Wilson
-4. Mingqi Yu
+1. _Felicia Szleszinski_
+2. _Kyle Selasky_
+3. _Miles Wilson_
+4. _Mingqi Yu_
 
 **Preparation date:** 1/22/2023 
 
