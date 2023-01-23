@@ -18,7 +18,7 @@
 **Charter:**
 Based on our goals and through a team discussion, we constructed the following charter:
 
-To be successful in our understanding of microcontroller programming while addressing how environmental sensing influences can affect real world applications in our final project.
+* To be successful in our understanding of microcontroller programming while addressing how environmental sensing influences can affect real world applications in our final project.
 
 **Product Mission Statement:**
 
