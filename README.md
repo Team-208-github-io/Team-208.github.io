@@ -1,3 +1,6 @@
+## EGR314 Spring Semester Project
+**Team 208**
+
 ## 1. Project Title
 
 **Project name:**
@@ -11,7 +14,7 @@
 3. Miles Wilson
 4. Mingqi Yu
 
-**Preparation date:**
+**Preparation date:** 1/22/2023 
 
 **Organisation information:**
 
