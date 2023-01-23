@@ -20,7 +20,9 @@
 * Professor: _Dan Aukes_
 
 ## 2. Team Organization
-* Charter:
+**Charter:**
+* To be successful in our understanding of microcontroller programming while addressing how environmental sensing influences can affect real world applications in our final project.
+
 * Mission Statement:
 
 ## 3. User Needs, Benchmarking, and Requirements
