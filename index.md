@@ -1,10 +1,7 @@
 ## 1. Project Title
 **Project name:**
-
 **Team 208**
-
 **Team members:**
-
 1. Felicia Szleszinski
 2. Kyle Selasky
 3. Miles Wilson
@@ -12,7 +9,7 @@
 
 **Preparation date:**
 
-**Organisation information**
+**Organisation information:**
 
 * University: _Arizona State University_ 
 * Class: _EGR314: Embedded Systems Design Project II_
