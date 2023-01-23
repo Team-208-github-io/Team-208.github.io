@@ -20,7 +20,7 @@
  
 ## 5.Presentation 1
 
-[Presentation 1]([https://idealab.asu.edu](https://embedded-systems-design.bitbucket.io/314/314-team-06-checkpoint-1/))
+[Presentation 1]([[https://idealab.asu.edu](https://embedded-systems-design.bitbucket.io/314/314-team-06-checkpoint-1/)]
  
 ---
 Project Requirements: Design Requirements 
