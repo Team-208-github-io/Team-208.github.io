@@ -1,4 +1,4 @@
-![image caption]https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FArizona_State_University&psig=AOvVaw3C1nWItWo-EAllFvsMuZIq&ust=1674525399517000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjo4a3L3PwCFQAAAAAdAAAAABAE
+![image caption]https://en.wikipedia.org/wiki/Arizona_State_University#/media/File:Arizona_State_University_seal.svg
 ## 1.Project Title
 * Project name: 
 * Team 208
