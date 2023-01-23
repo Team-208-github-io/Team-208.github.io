@@ -30,7 +30,7 @@
  
 ## 5. Presentation 1
 
-[Videolink for Presentation 1](https://embedded-systems-design.bitbucket.io/314/314-team-06-checkpoint-1/)
+[Video of Presentation 1](https://embedded-systems-design.bitbucket.io/314/314-team-06-checkpoint-1/)
  
 ---
 Date: 1/22/2023 
