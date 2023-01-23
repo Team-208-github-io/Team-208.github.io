@@ -1,6 +1,8 @@
 ## 1. Project Title
 **Project name:**
+
 **Team 208**
+
 **Team members:**
 
 1. Felicia Szleszinski
@@ -9,7 +11,9 @@
 4. Mingqi Yu
 
 **Preparation date: **
+
 **Arizona State University** 
+
 **Class:** EGR314: Embedded Systems Design Project II
 
 ## 2. Team Organization
