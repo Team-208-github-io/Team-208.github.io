@@ -12,9 +12,9 @@
 
 **Preparation date:**
 **Organisation information**
-* Arizona State University 
-* Class: EGR314: Embedded Systems Design Project II
-* Professor
+* University: _Arizona State University_ 
+* Class: _EGR314: Embedded Systems Design Project II_
+* Professor: _Dan Aukes_
 * 
 ## 2. Team Organization
 * Charter:
