@@ -1,14 +1,16 @@
 ## 1. Project Title
-* Project name: 
-* Team 208
-* Team members:
-   Felicia Szleszinski
-   Kyle Selasky
-   Miles Wilson
-   Mingqi Yu
-* Preparation date: 
-* Arizona State University 
-* Class: EGR314: Embedded Systems Design Project II
+**Project name:**
+**Team 208**
+**Team members:**
+
+1. Felicia Szleszinski
+2. Kyle Selasky
+3. Miles Wilson
+4. Mingqi Yu
+
+**Preparation date: **
+**Arizona State University** 
+**Class:** EGR314: Embedded Systems Design Project II
 
 ## 2. Team Organization
 * Charter:
