@@ -11,11 +11,11 @@
 4. Mingqi Yu
 
 **Preparation date:**
-
-**Arizona State University** 
-
-**Class:** EGR314: Embedded Systems Design Project II
-
+**Organisation information**
+* Arizona State University 
+* Class: EGR314: Embedded Systems Design Project II
+* Professor
+* 
 ## 2. Team Organization
 * Charter:
 * Mission Statement:
