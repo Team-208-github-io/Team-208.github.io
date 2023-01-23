@@ -49,7 +49,7 @@
 **Variable Force Sensing Temperature Pressure Glove**
 ![Variable Force Sensing Temperature Pressure Glove](https://user-images.githubusercontent.com/122709159/213966564-2cba5767-babe-4e55-85ea-b9585db0051f.png)
 --- 
-* Velcro on Fingers for Various Sizes
+**Velcro on Fingers for Various Sizes**
 ![Velcro on Fingers for Various Sizes](https://user-images.githubusercontent.com/122709159/213966611-4041dacc-41a9-4ff9-aeaa-34a482402d6a.jpg)
 ---
 
