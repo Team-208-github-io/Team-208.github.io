@@ -1,17 +1,22 @@
 ## EGR314 Spring Semester Project
 **Team 208**
 
+**Project name: Nerve damage therapy glove**
 
 **Team members:**
+
 1. Felicia Szleszinski
 2. Kyle Selasky
 3. Miles Wilson
 4. Mingqi Yu
 
-**Preparation date:** 1/22/2023
-**Arizona State University** 
-**Class:** EGR314: Embedded Systems Design Project II
-**Professor:** Daniel Aukes
+**Preparation date:** 1/22/2023 
+
+**Organisation information:**
+
+* University: _Arizona State University_ 
+* Class: _EGR314: Embedded Systems Design Project II_
+* Professor: _Dan Aukes_
 
 ## 1. Team Organization
 
