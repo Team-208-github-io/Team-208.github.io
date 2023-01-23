@@ -39,7 +39,7 @@ For our design ideation process we agreed on four main categories to focus on. T
 
 After coming up with all the ideas we then went through each one individually and determined whether we wanted to include it or not and whether or not they meant our requirements for the project. Miles drew the Balloon Grip Sensor Therapeutic Glove while Kyle drew the Variable Force Sensing Temperature/Pressure Glove and Mingqi did the Velcro on Fingers for Various Sizes.
 
-https://docs.google.com/document/d/1rwlRUkhHN8_KuPjEGyNR5eVbSKwuBbHuJvOcQV-REok/edit?usp=sharing 
+https://docs.google.com/document/d/1rwlRUkhHN8_KuPjEGyNR5eVbSKwuBbHuJvOcQV-REok/edit?usp=sharing  
 
 
 
