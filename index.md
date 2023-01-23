@@ -1,4 +1,3 @@
-![image caption](https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Arizona_State_University_seal.svg/1280px-Arizona_State_University_seal.svg.png | width=200)
 ## 1.Project Title
 * Project name: 
 * Team 208
@@ -26,3 +25,4 @@
 ---
 Project Requirements: Design Requirements 
 ---
+![image caption](https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Arizona_State_University_seal.svg/1280px-Arizona_State_University_seal.svg.png)
