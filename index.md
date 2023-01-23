@@ -11,11 +11,13 @@
 4. Mingqi Yu
 
 **Preparation date:**
+
 **Organisation information**
+
 * University: _Arizona State University_ 
 * Class: _EGR314: Embedded Systems Design Project II_
 * Professor: _Dan Aukes_
-* 
+
 ## 2. Team Organization
 * Charter:
 * Mission Statement:
