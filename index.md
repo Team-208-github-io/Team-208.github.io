@@ -1,12 +1,12 @@
-![image caption](https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Arizona_State_University_seal.svg/1280px-Arizona_State_University_seal.svg.png)
+![image caption](https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Arizona_State_University_seal.svg/1280px-Arizona_State_University_seal.svg.png =250x250))
 ## 1.Project Title
 * Project name: 
 * Team 208
 * Team members:
-* Felicia Szleszinski
-* Kyle Selasky
-* Miles Wilson
-* Mingqi Yu
+1. Felicia Szleszinski
+2. Kyle Selasky
+3. Miles Wilson
+4. Mingqi Yu
  Preparation date: 
 * Arizona State University 
 * Class: EGR314: Embedded Systems Design Project II
