@@ -62,6 +62,8 @@
 
 ## 4. Presentation 1
 
+![Jan  23 Checkpoint-1](https://user-images.githubusercontent.com/122709159/213969216-e0314781-86c9-40dc-9be9-0322e4fc1f9b.jpg)
+
 [Video of Presentation 1](https://embedded-systems-design.bitbucket.io/314/314-team-06-checkpoint-1/)
  
 ## Appendix A
