@@ -10,7 +10,7 @@
 3. Miles Wilson
 4. Mingqi Yu
 
-**Preparation date: **
+**Preparation date:**
 
 **Arizona State University** 
 
