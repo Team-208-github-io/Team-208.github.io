@@ -1,10 +1,4 @@
 ## EGR314 Spring Semester Project
-
-<figure class="image">  
-
-<div style="text-align: center">  
-
-<img src="media/Concept1.jpg" width="50%"><br> 
  
 **Team 208**
 
