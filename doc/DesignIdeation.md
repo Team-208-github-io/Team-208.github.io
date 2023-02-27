@@ -8,11 +8,10 @@
 
 * For our design ideation process we agreed on four main categories to focus on. They were electrical, movement, material, and miscellaneous. Then all team members started listing ideas for what the product should have based on the main categories. The best brainstorming method for us was Rapid Ideation. We looked at all of our benchmarked products and took the best from each of them while finding ways to improve them .Then we just started throwing everything we could think of onto the jamboard until we couldn't come up with any more ideas. Mind mapping didn't work for us as we started coming up with too many main ideas we wanted to focus on and was taking too much time. 
 
-<div  align="center"> 
 
-![3](https://user-images.githubusercontent.com/122709159/213966327-d724d5fc-da0b-442a-a4be-13c727f222c8.png)
-
-</div>
+<div style="text-align: center">
+<img src="https://user-images.githubusercontent.com/122709159/213966327-d724d5fc-da0b-442a-a4be-13c727f222c8.png"/>
+</div> 
 
 * After coming up with all the ideas we then went through each one individually and determined whether we wanted to include it or not and whether or not they meant our requirements for the project. Miles drew the Balloon Grip Sensor Therapeutic Glove while Kyle drew the Variable Force Sensing Temperature/Pressure Glove and Mingqi did the Velcro on Fingers for Various Sizes.
 
@@ -20,10 +19,8 @@
 **Balloon Grip Sensor Therapeutic Glove**
 ---
 
-<div  align="center">   
-  
-![Balloon Grip Sensor Therapeutic Glove](https://user-images.githubusercontent.com/122709159/213966462-f60028a3-5916-4f63-95ae-82ab78ccc513.png)
-
+<div style="text-align: center">
+<img src="https://user-images.githubusercontent.com/122709159/213966462-f60028a3-5916-4f63-95ae-82ab78ccc513.png"/>
 </div> 
   
 * Description: 
@@ -34,10 +31,8 @@ _This concept will be tethered to a wall power supply to avoid the need for a ba
 **Variable Force Sensing Temperature Pressure Glove**
 ---
 
-<div  align="center">  
-
-![Variable Force Sensing Temperature Pressure Glove](https://user-images.githubusercontent.com/122709159/213966564-2cba5767-babe-4e55-85ea-b9585db0051f.png)
-
+<div style="text-align: center">
+<img src="https://user-images.githubusercontent.com/122709159/213966564-2cba5767-babe-4e55-85ea-b9585db0051f.png"/>
 </div> 
 
 * Description: 
@@ -48,12 +43,10 @@ _This design will be battery powered for extra mobility\. It will be fully enclo
 **Velcro on Fingers for Various Sizes**
 ---
 
-<div  align="center">  
-  
-![Velcro on Fingers for Various Sizes](https://user-images.githubusercontent.com/122709159/213966611-4041dacc-41a9-4ff9-aeaa-34a482402d6a.jpg)
+<div style="text-align: center">
+<img src="https://user-images.githubusercontent.com/122709159/213966611-4041dacc-41a9-4ff9-aeaa-34a482402d6a.jpg"/>
+</div> 
 
-</div>     
-  
 * Current Design Description:
   
 _The selected design is based mostly on the balloon grip sensor, with aspects from the other two designs\. This new design will have two force sensors on the end of the index finger and the inside of the thumb\. These sensors will be in place of the balloon pressure sensor\. The team decided that the balloon would be too complex to manufacture and calibrate\. The temperature sensor will be on the palm of the glove, this will sense if something is too hot to be touching\. A motor on top of the wrist will pull on resistive bands attached to each finger when a person is exceeding a certain grip strength\. Data from the sensors will be communicated wirelessly\. The PCB itself will not be attached to the glove and instead be housed in a protective case external to the glove\. This external control box will have three LEDs on it to indicate user grip strength\. The design will be powered by a wall power supply and is not designed to be worn casually\. Instead this device will be designed to be used in physical therapy settings with people that have little to no feeling in their hands, due to nerve damage\._
