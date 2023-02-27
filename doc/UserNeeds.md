@@ -13,18 +13,10 @@
 
 ![alt_text](images/image16.png "image_tooltip")
 
-
-
-
-* 
 **Price**: $649.00
 
-
-* 
 **Vendor**: Steadi-Wear
 
-
-* 
 **Description**: The Steadi-Two is a ground-breaking glove designed to significantly reduce your hand tremor in Essential tremor.
 Steadi-Two key features:
 
@@ -179,18 +171,10 @@ Harder to use (Explicit)
 
 ![alt_text](images/image17.png "image_tooltip")
 
-
-
-
-* 
 **Price**: $259.00
 
-
-* 
 **Vendor**: Amazon
 
-
-* 
 **Description**: GYENNO Spoon for hand tremor：Steady helps people with eat more easily. Steady is designed to counteract tremors and shaky hands that may be related to conditions like Parkinson's disease or essential tremor.
 
 #### **Positive Comments**
@@ -337,22 +321,13 @@ Suspicion of seller (Explicit)
 
 ![alt_text](images/image18.png "image_tooltip")
 
-
-
-
-* 
 **Price**: $189.00
 
-
-* 
 **Vendor**: Amazon
 
-
-* 
 **Description**: It has a half cut design features, a wrist extension exerciser can be worn comfortably on wrists and finger, Suitable for finger work habits. Inhibit the fingers of the finger stroke or rheumatism rheumatoid arthritis deformation, prevent the fingers bend spasm or atrophy.
 
 #### **Positive Comments**
-
 
 <table>
   <tr>
