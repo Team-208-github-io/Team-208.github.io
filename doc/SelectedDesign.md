@@ -13,11 +13,11 @@ The design will be powered by a wall power supply and is not designed to be worn
 Instead this device will be designed to be used in physical therapy settings with people that have little to no feeling in their hands, due to nerve damage.
 
 **CAD Assembly of Control Box Housing**
-
+![image](https://user-images.githubusercontent.com/122938115/221493515-3aba4438-8e56-4616-96f7-1b0584720e98.jpg)
 
 
 **CAD Exploded Assembly of Control Box Housing**
-
+![image](https://user-images.githubusercontent.com/122938115/221493537-86941480-ffee-4bec-bd05-2a24b8fbc36a.jpg)
 
 * Control Box Description: The control box will have two holes near the bottom. One for the signal, power, and ground wires that lead to the glove, and the other for the wall power supply. The box also features three holes for the three indicator LEDs. 
 
