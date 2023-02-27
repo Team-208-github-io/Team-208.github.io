@@ -19,7 +19,6 @@ Steadi-Two key features:
 
 #### **Positive Comments**
 
-
 <table>
   <tr>
    <td>Voice of the Customer
@@ -77,10 +76,7 @@ The device makes it easy to do simple life tasks. ( Explicit)
   </tr>
 </table>
 
-
-
 #### **Negative Comments ([Original Version ](https://www.canadianmanufacturing.com/manufacturing/steadiwear-inc-develops-a-new-glove-to-combat-parkinsons-and-hand-tremors-273834/))**
-
 
 <table>
   <tr>
@@ -154,13 +150,6 @@ Harder to use (Explicit)
 
 **2. **[GYENNO Parkinson Spoon and Fork](https://www.amazon.com/GYENNO-Twist-Parkinson-Stabilizing-Parkinsons/dp/B07FRPX2H8?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AJE1XFPPGWEBV)
 
-
-
-<p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image17.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image17.png "image_tooltip")
-
 **Price**: $259.00
 
 **Vendor**: Amazon
@@ -168,7 +157,6 @@ Harder to use (Explicit)
 **Description**: GYENNO Spoon for hand tremor：Steady helps people with eat more easily. Steady is designed to counteract tremors and shaky hands that may be related to conditions like Parkinson's disease or essential tremor.
 
 #### **Positive Comments**
-
 
 <table>
   <tr>
