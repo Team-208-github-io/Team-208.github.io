@@ -2,9 +2,11 @@
 <img src="https://user-images.githubusercontent.com/122709159/221691301-fc6a161e-1b05-4322-9fa3-a99ac9ab6c3f.jpg"/>
 </div>
 
-<div align='center' >
-# **Nerve Damage Therapy Glove**
+# <div align='center' >
+Nerve Damage Therapy Glove
 </font></div>
+
+
 
 **EGR314 Spring Semester Project**
 
