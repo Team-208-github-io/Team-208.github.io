@@ -23,22 +23,17 @@
 
 ## [1. Team Organization](doc/TeamOrganization.md)
 
-**Charter:**
 * To be successful in our understanding of microcontroller programming while addressing how environmental sensing influences can affect real world applications in our final project.
 
-**Product Mission Statement:**
 * Our team will create an embedded systems device that senses at least two environmental conditions. This device will have at least one controlled response that reacts based on the sensory data. All sensing and actuation will be accomplished using serial communication. Our device will be used to solve a real world problem and will be demonstrated at the Polytechnic innovation showcase to industry professionals. The team will stay within budget and within the requirements of the 314 course. Some, but not all, of these requirements are surface mount components only, using cadence only, and board communication over wifi.
 
 
 ## [2. User Needs, Benchmarking, and Requirements](doc/UserNeeds.md)
 
-**Our Process:**
 * To complete user needs analysis, the team met online via Discord. This made sharing screens and files easy. Then we decided that Jamboard would be used to display and consolidate our ideas. Then each team member started to add user needs ideas to the board. No idea was rejected at first, all team members suggested and wrote whatever need they could think of. No team member rejected ideas at this point, this was merely to get a large pool of user needs on the table. Then we organized all the user needs into groups. This helped to reduce the number of repeat user needs in each category. Next, we ranked each section by how much the team valued them. Finally, we ranked every need in each category as well. This gave us a very good idea of what we value and absolutely need in the design. 
 
 ## [3. Product Requirements](doc/ProductRequirements.md)
 
-
-**Our Process:**
 * The team decided that each major category of the product requirements will  be the major categories that our user needs are organized into. These groups are not the suggested groups, but we felt like these will better inform our design based on our user needs. This will make it easier to both rank and generate the product requirements as we come up with and design our concepts. The product requirement list below is organized from the most important major category at the top and least at the bottom. Within each category the top most product requirement is the most important of that category.
 
 ## [4. Design Ideation](doc/DesignIdeation.md)
