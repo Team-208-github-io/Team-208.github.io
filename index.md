@@ -62,6 +62,10 @@ remote_theme: benbalter/retlab
 * After selecting our design, Team 208 determined the necessary components by comparing various pros and cons between different components. For each required component, three different options were compared to determine which would best suit our design. By listing three pros and cons, each team member was able to create justification for their selection.
 
 ## [9. Microcontroller Selection](doc/MicrocontrollerSelection.md)
+
+**Final Microcontroller Choice: PIC16F18875-I/P**
+
+* Rationale: Team 208 decided to move forward with PIC16F18875-I/P because of the three microcontrollers it had the most user and application notes. It also meets all of the project's requirements at the lowest overhead and doesn’t require separate hardware to work. This part also comes in a through hole and surface mount option for project implementation.
  
 ## [10. Block Diagram](doc/BlockDiagram.md)
  
@@ -88,10 +92,3 @@ remote_theme: benbalter/retlab
 
 
 Date: 02/26/2023 
-
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jemoji
-  - jekyll-remote-theme
