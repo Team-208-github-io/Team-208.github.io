@@ -80,4 +80,4 @@ theme: minima
 [Link to "Team 208's Jan. 23 Checkpoint-1"](https://docs.google.com/presentation/d/1hgJn6WouZ5ktR1tikmxeMw9MUZq5OlJOVkCAVtTWgRQ/edit?usp=sharing)
 
 
-Date: 1/22/2023 
+Date: 02/26/2023 
