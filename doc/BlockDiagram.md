@@ -1,4 +1,4 @@
-Block Diagram:
+**Block Diagram:**
 
 
 **Description:**
