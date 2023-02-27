@@ -1,4 +1,4 @@
-## Nerve Damage Therapy Glove
+# **Nerve Damage Therapy Glove**
 
 **EGR314 Spring Semester Project**
 
