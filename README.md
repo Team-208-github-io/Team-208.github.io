@@ -1,4 +1,3 @@
-## [啊啊啊啊啊草！！](doc/test1.md)
 ## Project Name: Nerve Damage Therapy Glove
  
 **EGR314 Spring Semester Project**
