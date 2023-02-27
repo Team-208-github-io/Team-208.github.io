@@ -1,5 +1,5 @@
 ---
-title: [Project Name: Nerve Damage Therapy Glove](doc/index.md)
+[Project Name: Nerve Damage Therapy Glove](doc/index.md)
 ---
 
 ## Project Name: Nerve Damage Therapy Glove
