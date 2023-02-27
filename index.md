@@ -1,6 +1,6 @@
 # **Nerve Damage Therapy Glove**
 
-![ASU-Logo](https://user-images.githubusercontent.com/122709159/221691301-fc6a161e-1b05-4322-9fa3-a99ac9ab6c3f.jpg)
+![ASU-Logo](https://user-images.githubusercontent.com/122709159/221691301-fc6a161e-1b05-4322-9fa3-a99ac9ab6c3f.jpg =100x100)
 
 **EGR314 Spring Semester Project**
 
