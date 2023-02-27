@@ -53,7 +53,7 @@ Steadi-Two key features:
 
 ## 2. [GYENNO Parkinson Spoon and Fork](https://www.amazon.com/GYENNO-Twist-Parkinson-Stabilizing-Parkinsons/dp/B07FRPX2H8?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AJE1XFPPGWEBV)
 
-![image](https://user-images.githubusercontent.com/122709159/221524164-b132a0d3-979d-4c3e-807c-bd5ee345faf6.png)
+![image](https://user-images.githubusercontent.com/122709159/221525050-3194f835-c0fb-47bd-b810-15876a2f7df4.png)
 
 **Search #2**
 
@@ -97,10 +97,9 @@ Steadi-Two key features:
 |                                                                                                                                                                                                                                                                   | 3. Lack of transparency ( Latent)                           |
 
 
-**3.** [XUETAO Rehabilitation Robot Gloves](https://www.amazon.com/Rehabilitation-Dysfunction-Hemiplegia-Exerciser-Strengthener/dp/B09PTJD96H/ref=asc_df_B09PTJD96H/?tag=hyprod-20&linkCode=df0&hvadid=563607579726&hvpos=&hvnetw=g&hvrand=1474911321915781718&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9029968&hvtargid=pla-1639344496302&th=1)
+## **3.** [XUETAO Rehabilitation Robot Gloves](https://www.amazon.com/Rehabilitation-Dysfunction-Hemiplegia-Exerciser-Strengthener/dp/B09PTJD96H/ref=asc_df_B09PTJD96H/?tag=hyprod-20&linkCode=df0&hvadid=563607579726&hvpos=&hvnetw=g&hvrand=1474911321915781718&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9029968&hvtargid=pla-1639344496302&th=1)
 
-![](RackMultipart20230227-1-l3ar2i_html_131286529d802c18.png)
-
+![image](https://user-images.githubusercontent.com/122709159/221524164-b132a0d3-979d-4c3e-807c-bd5ee345faf6.png)
 
 **Search #3**
 
