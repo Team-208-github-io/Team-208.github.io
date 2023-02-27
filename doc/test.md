@@ -36,11 +36,11 @@
 
 1. __Electronics \(\*\*\):__
 
-	4\.1\) All electronics should meet the requirements for EGR314\.
+4\.1\) All electronics should meet the requirements for EGR314\.
 
-	4\.2\) The product should have enough power for at least 2\-4 hours of use\.
+4\.2\) The product should have enough power for at least 2\-4 hours of use\.
 
-	4\.3\) The power supply should be completely internal or supplied by a USB\-c connection\.
+4\.3\) The power supply should be completely internal or supplied by a USB\-c connection\.
 
 4\.4\) The product should respond to sensor data in an accurate, fast, and controlled manner\.
 
@@ -62,10 +62,10 @@
 
 1. __Misc\. \(\*\):__
 
-	7\.1\) Amount of remaining power should be visible to the user\.
+7\.1\) Amount of remaining power should be visible to the user\.
 
-	7\.2\) The product life cycle should be considered when designing the product\.
+7\.2\) The product life cycle should be considered when designing the product\.
 
-	7\.3\) A screen should communicate data and information to the user\.
+7\.3\) A screen should communicate data and information to the user\.
 
-	7\.4\) The product should be stylish for the user\.
+7\.4\) The product should be stylish for the user\.
