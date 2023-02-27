@@ -17,10 +17,7 @@
   <tr>
    <td>
 
-<p id="gdcalert34" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (https://user-images.githubusercontent.com/122938115/221623248-20917da3-98b9-44e0-af0a-95db8d589487.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert35">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image34.png" width="" alt="alt_text" title="image_tooltip">
+ ![image1](https://user-images.githubusercontent.com/122938115/221623248-20917da3-98b9-44e0-af0a-95db8d589487.png)
 
    </td>
    <td>
