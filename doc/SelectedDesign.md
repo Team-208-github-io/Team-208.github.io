@@ -1,4 +1,4 @@
-***Selected Design***
+**Selected Design**
 
 **Current Design Description:**
 
@@ -12,17 +12,17 @@ This external control box will have three LEDs on it to indicate user grip stren
 The design will be powered by a wall power supply and is not designed to be worn casually. 
 Instead this device will be designed to be used in physical therapy settings with people that have little to no feeling in their hands, due to nerve damage.
 
-CAD Assembly of Control Box Housing
+**CAD Assembly of Control Box Housing
 
 
 
-CAD Exploded Assembly of Control Box Housing
+**CAD Exploded Assembly of Control Box Housing
 
 
-Control Box Description: The control box will have two holes near the bottom. One for the signal, power, and ground wires that lead to the glove, and the other for the wall power supply. The box also features three holes for the three indicator LEDs. 
+* Control Box Description: The control box will have two holes near the bottom. One for the signal, power, and ground wires that lead to the glove, and the other for the wall power supply. The box also features three holes for the three indicator LEDs. 
 
 
-Drawing of Glove
+**Drawing of Glove
 
 
-Glove Description: The glove will feature force sensors on the index finger and the thumb, a temperature sensor on the inside of the palm, and a motor on the back of the hand. The motor will pull at the resistive bands on each finger. A cable will run from the glove to the control box that will provide power, ground, and signal transmission.
+* Glove Description: The glove will feature force sensors on the index finger and the thumb, a temperature sensor on the inside of the palm, and a motor on the back of the hand. The motor will pull at the resistive bands on each finger. A cable will run from the glove to the control box that will provide power, ground, and signal transmission.
