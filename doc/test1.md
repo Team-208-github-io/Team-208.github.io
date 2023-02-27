@@ -14,7 +14,9 @@
 Steadi-Two key features:
 
 -Provides INSTANT stability to your tremor.
+
 -NO batteries or charging required.
+
 -Lightweight: The device weighs under 1lb.
 
 | Positive Comments                                                                                                                                                                      |                                                                  |
