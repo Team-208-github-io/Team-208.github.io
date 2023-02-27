@@ -6,6 +6,12 @@
 
 ![image](https://user-images.githubusercontent.com/122709159/221515062-8c28912f-899d-4127-8eeb-afe2ca104f11.png)
 
+**Search #1**
+
+**Keywords:** Parkinson, grip, sensor
+
+**Search Results Link:** [Here](https://www.google.com/search?q=Parkinson,+grip,+sensor&source=lmns&bih=876&biw=1031&hl=en&sa=X&ved=2ahUKEwjuwurbi9D8AhUQN0QIHRFhDC8Q_AUoAHoECAEQAA)
+
 **Price**: $649.00
 
 **Vendor**: Steadi-Wear
