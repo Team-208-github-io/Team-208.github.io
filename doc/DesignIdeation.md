@@ -13,12 +13,15 @@
 ---
 ![Balloon Grip Sensor Therapeutic Glove](https://user-images.githubusercontent.com/122709159/213966462-f60028a3-5916-4f63-95ae-82ab78ccc513.png)
 
-__Description:__ This concept will be tethered to a wall power supply to avoid the need for a battery\. The wall power supply will then go to a control box that houses our PCB\. This will protect the PCB and make the glove design more streamlined\. This box will have LED indicators to display how hard someone is gripping\. The glove will have a balloon with a pressure sensor inside it to measure the grip strength of someones hand\. The motor on the back of the hand will increase tension in the glove if a person is gripping too hard, and release if they decrease grip strength\. This design will meet all class requirements\. This design will also feature a temperature sensor that can indicate if someone is gripping something too hot\.
+__Description: __This concept will be tethered to a wall power supply to avoid the need for a battery\. The wall power supply will then go to a control box that houses our PCB\. This will protect the PCB and make the glove design more streamlined\. This box will have LED indicators to display how hard someone is gripping\. The glove will have a balloon with a pressure sensor inside it to measure the grip strength of someones hand\. The motor on the back of the hand will increase tension in the glove if a person is gripping too hard, and release if they decrease grip strength\. This design will meet all class requirements\. This design will also feature a temperature sensor that can indicate if someone is gripping something too hot\.
 
 ---
 **Variable Force Sensing Temperature Pressure Glove**
 ---
 ![Variable Force Sensing Temperature Pressure Glove](https://user-images.githubusercontent.com/122709159/213966564-2cba5767-babe-4e55-85ea-b9585db0051f.png)
+
+_Description: __This design will be battery powered for extra mobility\. It will be fully enclosed in the glove and will not have any external parts\. A compression sleeve on each finger will be the actuator\. These will relax the fingers when someone is gripping too hard\. LED indicators on the side of the glove will indicate grip strength\. There will also be a LED screen for easy viewing of data\. This design meets all class requirement
+
 --- 
 **Velcro on Fingers for Various Sizes**
 ---
