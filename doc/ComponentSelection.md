@@ -138,8 +138,8 @@
   </tr>
   <tr>
    <td>
-
- ![image1](https://user-images.githubusercontent.com/122938115/221623248-20917da3-98b9-44e0-af0a-95db8d589487.png)
+     
+<img1 src="[../assets/images/ZAK.JPEG](https://user-images.githubusercontent.com/122938115/221623248-20917da3-98b9-44e0-af0a-95db8d589487.png)">
 
    </td>
    <td>
