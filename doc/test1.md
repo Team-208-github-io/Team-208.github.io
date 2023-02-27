@@ -11,7 +11,7 @@ Steadi-Two key features:
     * NO batteries or charging required.
     * Lightweight: The device weighs under 1lb.
 
-#### **Positive Comments**
+**Positive Comments**
 
 <table>
   <tr>
@@ -71,16 +71,7 @@ The device makes it easy to do simple life tasks. ( Explicit)
 </table>
 
 
-
-
-
-
-
-
-
-
-## Negative Comments ([Original Version ](https://www.canadianmanufacturing.com/manufacturing/steadiwear-inc-develops-a-new-glove-to-combat-parkinsons-and-hand-tremors-273834/))
-
+**Negative Comments**
 
 <table>
   <tr>
