@@ -4,17 +4,20 @@
 **Aspects:**
 1. Safety (***):
 
-3.1) The product’s structural components must not pinch, cut, or injure the user. 
-4.2) The product should be made out of regulatory compliant and sterile materials.
-5.3) All electrical components should be sealed, hidden, or inaccessible to the user.
-6.4) A temperature sensor should sense if the user is holding something hot.
-7.5) The product should generally move slowly and not require high voltages, this will keep total energy low.
-Ease of Use (***):
+1.1) The product’s structural components must not pinch, cut, or injure the user. 
+1.2) The product should be made out of regulatory compliant and sterile materials.
+1.3) All electrical components should be sealed, hidden, or inaccessible to the user.
+1.4) A temperature sensor should sense if the user is holding something hot.
+1.5) The product should generally move slowly and not require high voltages, this will keep total energy low.
+
+2. Ease of Use (***):
+
 2.1) The product should be able to be used by any type of user regardless of age, hand size, strength, or mobility.
 2.2) The product should adjust to fit any user.
 2.3) Using the product should be easy to understand and use.
 2.4) The multiple indicators on the product should not be loud or annoying, but still noticeable and understandable to the user.
 2.5) The product should be easy to manufacture, assemble, disassemble, and clean.
+
 Functionality (**):
 3.1) The product will sense and relay the temperature of a gripped object and the grip strength force in real time.
 3.2) The product will use a motor to resist user grip strength if it exceeds an acceptable limit in real time.
