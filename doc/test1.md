@@ -30,6 +30,7 @@ Steadi-Two key features:
 |                                                                                                                                                                                        | 2. Prevents messes from happening (Explicit)                     |
 |                                                                                                                                                                                        | 3. Less stress ( Latent)                                         |
 |                                                                                                                                                                                        |                                                                  |
+
 | Negative Comments                                                                                                                                                |                                                                  |
 | Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                           |
 | “The original version was limited to certain tremor types”                                                                                                                             | 1. Offers no support for certain conditions (Explicit)           |
