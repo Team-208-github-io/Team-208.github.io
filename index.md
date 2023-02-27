@@ -3,7 +3,7 @@
 </div>
 
 
-# **Nerve Damage Therapy Glove**
+<center># **Nerve Damage Therapy Glove**</center>
 
 **EGR314 Spring Semester Project**
 
