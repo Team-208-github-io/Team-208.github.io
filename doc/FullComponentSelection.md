@@ -833,10 +833,7 @@ small
   <tr>
    <td>
 
-<p id="gdcalert44" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image44.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert45">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image44.png" width="" alt="alt_text" title="image_tooltip">
+![image12](https://user-images.githubusercontent.com/122938115/221623536-96b451f6-aee7-467e-9838-dc30dd1cf05a.png)
 
    </td>
    <td>
@@ -908,10 +905,7 @@ Not very cheap
   <tr>
    <td>
 
-<p id="gdcalert45" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image45.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert46">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image45.png" width="" alt="alt_text" title="image_tooltip">
+![image13](https://user-images.githubusercontent.com/122938115/221623581-7853ceb3-7b48-4046-aa15-ae0c5991eac1.png)
 
    </td>
    <td>
@@ -983,10 +977,7 @@ Might not work with brushless motor of our choice
   <tr>
    <td>
 
-<p id="gdcalert46" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image46.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert47">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image46.png" width="" alt="alt_text" title="image_tooltip">
+![image14](https://user-images.githubusercontent.com/122938115/221623605-a7295342-5891-4ed2-bbd1-84d34ffc98d3.png)
 
    </td>
    <td>
@@ -1062,10 +1053,7 @@ Might not work with brushless motor of our choice
   <tr>
    <td>
 
-<p id="gdcalert47" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image47.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert48">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image47.png" width="" alt="alt_text" title="image_tooltip">
+![image15](https://user-images.githubusercontent.com/122938115/221623633-fd2ff358-b5cc-4977-93e6-38ea37f02772.png)
 
    </td>
    <td>
@@ -1157,10 +1145,7 @@ Does not need separate ADC chip
   <tr>
    <td>
 
-<p id="gdcalert48" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image48.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert49">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image48.png" width="" alt="alt_text" title="image_tooltip">
+![image16](https://user-images.githubusercontent.com/122938115/221623660-e434a500-1374-4e1e-8d9b-290f0af5d43b.png)
 
    </td>
    <td>
@@ -1252,10 +1237,7 @@ Does not need separate ADC chip
   <tr>
    <td>
 
-<p id="gdcalert49" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image49.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert50">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image49.png" width="" alt="alt_text" title="image_tooltip">
+![image16](https://user-images.githubusercontent.com/122938115/221623685-7072b3b8-992c-42d2-a801-e90cbfd29f19.png)
 
    </td>
    <td>
@@ -1347,10 +1329,7 @@ Eliminates the need for the balloon.
   <tr>
    <td>
 
-<p id="gdcalert50" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image50.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert51">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image50.png" width="" alt="alt_text" title="image_tooltip">
+![image17](https://user-images.githubusercontent.com/122938115/221623709-6ffe869c-a5a3-4335-a193-7d621747a03a.png)
 
    </td>
    <td>
@@ -1418,10 +1397,7 @@ Outputs SPI
   <tr>
    <td>
 
-<p id="gdcalert51" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image51.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert52">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image51.png" width="" alt="alt_text" title="image_tooltip">
+![image18](https://user-images.githubusercontent.com/122938115/221623764-c364cf68-89f3-45ae-adf2-a33bf1a74485.png)
 
    </td>
    <td>
@@ -1495,10 +1471,7 @@ Outputs SPI
   <tr>
    <td>
 
-<p id="gdcalert52" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image52.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert53">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image52.png" width="" alt="alt_text" title="image_tooltip">
+![image19](https://user-images.githubusercontent.com/122938115/221623794-1845cf82-ad5e-4482-8808-a11f5d808227.png)
 
    </td>
    <td>
@@ -1572,10 +1545,7 @@ Surface mount
   <tr>
    <td>
 
-<p id="gdcalert53" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image53.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert54">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image53.png" width="" alt="alt_text" title="image_tooltip">
+![image20](https://user-images.githubusercontent.com/122938115/221623823-985842fd-6611-4a26-a1c1-b8a1fd6cfe5a.png)
 
    </td>
    <td>
@@ -1657,10 +1627,7 @@ Surface mount
   <tr>
    <td>
 
-<p id="gdcalert54" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image54.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert55">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image54.png" width="" alt="alt_text" title="image_tooltip">
+![image21](https://user-images.githubusercontent.com/122938115/221623862-400c779a-a6a4-4c68-ad61-0d6cd0dcf58d.png)
 
    </td>
    <td>
@@ -1754,10 +1721,7 @@ Slower response time of 8 seconds
   <tr>
    <td>
 
-<p id="gdcalert55" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image55.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert56">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image55.png" width="" alt="alt_text" title="image_tooltip">
+![image22](https://user-images.githubusercontent.com/122938115/221623892-9d023a92-175a-4309-8019-ac8b6de2b707.png)
 
    </td>
    <td>
@@ -1863,10 +1827,7 @@ Goes in sleep mode when not in use,  consuming only 1 µA of power versus 650 µ
   <tr>
    <td>
 
-<p id="gdcalert56" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image56.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert57">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image56.png" width="" alt="alt_text" title="image_tooltip">
+![image23](https://user-images.githubusercontent.com/122938115/221623913-105c925a-353e-4806-849c-d9b685439d3c.png)
 
    </td>
    <td>
@@ -1980,10 +1941,7 @@ Goes in sleep mode when not in use,  consuming only 1 µA of power versus 650 µ
   <tr>
    <td>
 
-<p id="gdcalert57" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image57.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert58">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image57.png" width="" alt="alt_text" title="image_tooltip">
+![image24](https://user-images.githubusercontent.com/122938115/221623949-b385e40b-d2a3-43b4-a916-7036926df6c1.png)
 
    </td>
    <td>
@@ -2069,10 +2027,7 @@ Cold-proof
   <tr>
    <td>
 
-<p id="gdcalert58" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image58.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert59">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image58.png" width="" alt="alt_text" title="image_tooltip">
+![image25](https://user-images.githubusercontent.com/122938115/221623977-be4e7871-91be-4c9c-9700-656318445193.png)
 
    </td>
    <td>
@@ -2146,10 +2101,7 @@ Very little structure to them
   <tr>
    <td>
 
-<p id="gdcalert59" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image59.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert60">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image59.png" width="" alt="alt_text" title="image_tooltip">
+![image26](https://user-images.githubusercontent.com/122938115/221624000-3aaa0d3c-73b8-49d6-8ce2-d00e8d6e12a4.png)
 
    </td>
    <td>
