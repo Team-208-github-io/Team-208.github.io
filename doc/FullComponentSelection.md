@@ -1,4 +1,5 @@
-[<Back to Pervious Page](https://team-208-github-io.github.io/Team-208/doc/ComponentSelection.md)
+[<Back to Pervious Page](doc/ComponentSelection.md)
+
 [<Back to Main Page](https://team-208-github-io.github.io/Team-208/)
 
 **Component Selection**
