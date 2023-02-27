@@ -1,4 +1,4 @@
-## 3. Design Ideation
+## Design Ideation
 
 ![1](https://user-images.githubusercontent.com/122709159/213965963-f8247255-c0f5-45f7-b8b9-de3b4387599c.png) 
 
