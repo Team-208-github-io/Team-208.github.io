@@ -1,4 +1,4 @@
-**Selected Design**
+***Selected Design***
 
 **Current Design Description:**
 
