@@ -29,7 +29,7 @@ Steadi-Two key features:
 | “When I put [the glove] on, I had a lot of good relief as far as being able to drink without spilling all over myself, and eat”                                                        | 1. The device makes it easy to do simple life tasks. ( Explicit) |
 |                                                                                                                                                                                        | 2. Prevents messes from happening (Explicit)                     |
 |                                                                                                                                                                                        | 3. Less stress ( Latent)                                         |
-
+|
 
 | Negative Comments                                                                                                                                                |                                                                  |
 | Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                           |
