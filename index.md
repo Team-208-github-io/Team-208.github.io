@@ -21,7 +21,7 @@
 * Class: _EGR314: Embedded Systems Design Project II_
 * Professor: _Daniel Aukes_
 
-## **[1. Team Organization](doc/TeamOrganization.md)**
+## [1. Team Organization](doc/TeamOrganization.md)
 
 **Charter:**
 * To be successful in our understanding of microcontroller programming while addressing how environmental sensing influences can affect real world applications in our final project.
