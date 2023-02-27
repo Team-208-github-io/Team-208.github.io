@@ -17,8 +17,9 @@ Steadi-Two key features:
     * NO batteries or charging required.
     * Lightweight: The device weighs under 1lb.
 
-| Positive Comments                                                                                                                                                                     |                                                                  |
+| Positive Comments                                                                                                                                                                      |                                                                  |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+|                                                                                                                                                                                        |                                                                  |
 | Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                           |
 | “The Steadi-Two has really helped her. Anything that helps to reduce her tremor makes her feel better about herself, and that makes me feel better.”                                   | 1. The device inspires confidence (Explicit)                     |
 |                                                                                                                                                                                        | 2. Sense of independence ( Latent)                               |
@@ -30,8 +31,7 @@ Steadi-Two key features:
 |                                                                                                                                                                                        | 2. Prevents messes from happening (Explicit)                     |
 |                                                                                                                                                                                        | 3. Less stress ( Latent)                                         |
 |                                                                                                                                                                                        |                                                                  |
-
-| Negative Comments                                                                                                                                                |                                                                  |
+| Negative Comments (Original Version )                                                                                                                                                  |                                                                  |
 | Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                           |
 | “The original version was limited to certain tremor types”                                                                                                                             | 1. Offers no support for certain conditions (Explicit)           |
 |                                                                                                                                                                                        | 2. More of a hindrance to non-covered users (Latent)             |
@@ -42,6 +42,7 @@ Steadi-Two key features:
 | “Original version was to heavy”                                                                                                                                                        | 1. Harder to use (Explicit)                                      |
 |                                                                                                                                                                                        | 2. Not user-friendly (Explicit)                                  |
 |                                                                                                                                                                                        | 3. Not compatible with all users ( Explicit)                     |
+
 
 **Search #2**
 
