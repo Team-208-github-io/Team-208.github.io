@@ -2,8 +2,6 @@
 <img src="https://user-images.githubusercontent.com/122709159/221691301-fc6a161e-1b05-4322-9fa3-a99ac9ab6c3f.jpg"/>
 </div>
 
-<div align='center' ><font size='140'>Nerve Damage Therapy Glove</font></div>
-
 # Nerve Damage Therapy Glove
 
 **EGR314 Spring Semester Project**
@@ -82,23 +80,43 @@ For this project we decided to break up our software proposal into multiple diff
 
 [Link to "Team 208's Charter"](https://github.com/Team-208-github-io/Team-208/files/10844546/Team.208.s.Charter.pdf)
 
+## Appendix B
+
 [Link to "Team 208's User Needs and Benchmarking"](https://docs.google.com/document/d/1yNhMk36OD9xKp0WGD0XdSZ_GKACv3c8gfcodrc5hSE0/edit?usp=sharing)
+
+## Appendix C
 
 [Link to "Team 208's Design Ideation"](https://docs.google.com/document/d/1rwlRUkhHN8_KuPjEGyNR5eVbSKwuBbHuJvOcQV-REok/edit?usp=sharing)
 
+## Appendix D
+
 [Link to "Team 208's Block Diagram"](https://drive.google.com/drive/folders/1gePIfOKmyoVRG5gJwy18oY0E-uoj2G0x?usp=sharing)
+
+## Appendix E
 
 [Link to "Team 208's Component Selection"](https://drive.google.com/drive/folders/18fw8-NRQfdGiQpUY4lq2MCqJym8U9eRd?usp=sharing)
 
+## Appendix F
+
 [Link to "Team 208's Microcontroller Selection"](https://docs.google.com/document/d/1ygNtUk-ytzj8xwWlwaRVApXOlcguVhPF/edit?usp=sharing&ouid=110297201773216341986&rtpof=true&sd=true)
+
+## Appendix G
 
 [Link to "Team 208's Software Proposal"](https://drive.google.com/file/d/1uycpeu_h8ay-IR5ho-DRW8Z4Q4lC9UDP/view?usp=sharing)
 
+## Appendix H
+
 [Link to "Team 208's Hardware Proposal"](https://drive.google.com/drive/folders/1b9F3WLSFGzd8pe9cJ5nFffCRV0RW1SW-?usp=sharing)
+
+## Appendix I
 
 [Link to "Team 208's Team and Individual Cadence Subsystems"](https://drive.google.com/drive/folders/13jUH9Vl2aOTExGctnM7fT20rFPp-uSIZ?usp=sharing)
 
+## Appendix J
+
 [Link to "Team 208's Jan. 26 MPLAB"](https://drive.google.com/file/d/1nDP8JixQ91Ch6AFLqdIlS3i-IN7m-84g/view?usp=share_link) 
+
+## Appendix K
 
 [Link to "Team 208's Jan. 23 Checkpoint-1"](https://docs.google.com/presentation/d/1hgJn6WouZ5ktR1tikmxeMw9MUZq5OlJOVkCAVtTWgRQ/edit?usp=sharing)
 
