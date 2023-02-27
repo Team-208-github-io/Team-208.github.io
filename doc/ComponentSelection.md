@@ -1,6 +1,6 @@
 [<Back](https://team-208-github-io.github.io/Team-208/)
 
-[Full Componenet Selection Assignment](doc/FullComponentSelection.md)
+[Full Componenet Selection Assignment](https://team-208-github-io.github.io/Team-208/doc/FullComponentSelection.md)
 
 # Component Selection
 
