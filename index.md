@@ -25,7 +25,7 @@ remote_theme: benbalter/retlab
 
 ## 1.[Team Organization]
 
-[Team Organization](Team-208/doc/Team-Organization.md)
+[Team Organization](Team-208/README.md)
 
 **Charter:**
 * To be successful in our understanding of microcontroller programming while addressing how environmental sensing influences can affect real world applications in our final project.
