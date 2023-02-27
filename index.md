@@ -74,7 +74,7 @@ For this project we decided to break up our software proposal into multiple diff
  
 ## Appendix A
 
-[Link to "Team 208's Charter"](https://docs.google.com/document/d/1KnbiiMYb2K0HKReNCJJwkJIaMzlF_pRPQoaXfeS1aX0/edit?usp=sharing)
+[Link to "Team 208's Charter"](https://github.com/Team-208-github-io/Team-208/files/10844546/Team.208.s.Charter.pdf)
 
 [Link to "Team 208's User Needs and Benchmarking"](https://docs.google.com/document/d/1yNhMk36OD9xKp0WGD0XdSZ_GKACv3c8gfcodrc5hSE0/edit?usp=sharing)
 
