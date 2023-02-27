@@ -120,6 +120,12 @@
 
 
 
+![firstImage](https://user-images.githubusercontent.com/122938115/221639951-72870321-d792-42e5-b49d-ade9336e56ce.png)
+
+
+
+
+
 **Component Selection**
 
 **Power Supply Subsystem (Kyle):**
