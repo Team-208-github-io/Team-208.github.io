@@ -15,7 +15,7 @@ remote_theme: benbalter/retlab
 3. _Miles Wilson_
 4. _Mingqi Yu_
 
-**Preparation date:** 1/22/2023 
+**Preparation date:** 02/26/2023 
 
 **Organisation information:**
 
@@ -88,7 +88,7 @@ remote_theme: benbalter/retlab
 [Link to "Team 208's Jan. 23 Checkpoint-1"](https://docs.google.com/presentation/d/1hgJn6WouZ5ktR1tikmxeMw9MUZq5OlJOVkCAVtTWgRQ/edit?usp=sharing)
 
 
-Date: 1/22/2023 
+Date: 02/26/2023 
 
 plugins:
   - jekyll-feed
