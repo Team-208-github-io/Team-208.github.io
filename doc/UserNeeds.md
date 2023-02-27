@@ -5,10 +5,6 @@
 **Our Process:**
 * To complete user needs analysis, the team met online via Discord. This made sharing screens and files easy. Then we decided that Jamboard would be used to display and consolidate our ideas. Then each team member started to add user needs ideas to the board. No idea was rejected at first, all team members suggested and wrote whatever need they could think of. No team member rejected ideas at this point, this was merely to get a large pool of user needs on the table. Then we organized all the user needs into groups. This helped to reduce the number of repeat user needs in each category. Next, we ranked each section by how much the team valued them. Finally, we ranked every need in each category as well. This gave us a very good idea of what we value and absolutely need in the design. 
 
-[<Back](https://team-208-github-io.github.io/Team-208/)
-
-
-
 ## 1.[Steadi-Two: Tremor Reducing Glove](https://steadiwear.com/products/steadi-two?variant=39602647597118&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AeTuncrpidJZvByOF4i6p4qZoAI4PKyvljDF8Ib5S0TTi_WE0Cz6n2SayBg)
 
 ![image](https://user-images.githubusercontent.com/122709159/221515062-8c28912f-899d-4127-8eeb-afe2ca104f11.png)
