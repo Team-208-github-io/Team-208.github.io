@@ -1,6 +1,3 @@
-
-remote_theme: benbalter/retlab
-
 ## EGR314 Spring Semester Project
  
 **Team 208**
