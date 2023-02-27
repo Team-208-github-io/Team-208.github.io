@@ -139,7 +139,7 @@
   <tr>
    <td>
      
-<img1 src="https://user-images.githubusercontent.com/122938115/221623248-20917da3-98b9-44e0-af0a-95db8d589487.png">
+ ![image2](https://user-images.githubusercontent.com/122938115/221635777-291ec059-dac4-4dd5-935f-468a18ee9c9b.png)
   
    </td>
    <td>
