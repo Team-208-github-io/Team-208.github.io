@@ -74,16 +74,21 @@ remote_theme: benbalter/retlab
 
  
 ## 6. Component Selection
- 
-*  To deliver power to our nerve damage pressure glove we will be using a wall outlet that supplies 5V and 1A to power up the device and let it function. Power will pass into a voltage regulator where it will output at 3.3V and proceed to the microcontroller. The microcontroller will be connected to and receive data from all of our sensors. When a user holds on to something with the glove the thin film pressure sensors will relay that information back to the microcontroller via ADC which converts it into an SPI signal. Our ESP32 wifi module utilizes UART and can upload the information to the server at a medical facility or someone's phone.  
 
 ## 7. Microcontroller Selection
  
 ## 8. Block Diagram
  
+*  To deliver power to our nerve damage pressure glove we will be using a wall outlet that supplies 5V and 1A to power up the device and let it function. Power will pass into a voltage regulator where it will output at 3.3V and proceed to the microcontroller. The microcontroller will be connected to and receive data from all of our sensors. When a user holds on to something with the glove the thin film pressure sensors will relay that information back to the microcontroller via ADC which converts it into an SPI signal. Our ESP32 wifi module utilizes UART and can upload the information to the server at a medical facility or someone's phone.  
+ 
 ## 9. Hardware Proposal
  
+* The team schematic has been broken into sections to reduce confusion. There are six major sections in the team system. These are the switching voltage regulator, temperature sensor, LED array, motor driver, force sensors, and the microcontroller. Each section has arrows on the end of wires that connect to other sections. These arrows indicate the exact pin that wire should connect to.
+
 ## 10. Software Proposal
+ 
+* For this project we decided to break up our software proposal into multiple different sections as we believed it would be easier for readers of this report to understand. Each section shows how that part will operate and what it does as well. We have the main loop showing how the overall process will happen along with the chain showing how the wifi will communicate with UART and the ESP32 device.  The LED loop shows how many LEDs will turn on depending on how much force is applied to an object by a user when they are wearing the glove. Depending on how much force is applied either the green or the red LED will then turn on. The team used only one interrupt to run the update motor function every second.
+
  
 ## Appendix A
 
