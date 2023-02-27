@@ -142,17 +142,16 @@ Steadi-Two key features:
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 2. The design is not well made. (latent)                                                                                               |
 | However when you see it, all this is is the pump from a blood pressure cuff hooked to a glove with some tubing. There is absolutely no reason why this costs $200. This product could change the lives of millions if it were priced more reasonably.”                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 3. The design should offer more options to the user for the price. (latent)                                                            |
 
+
+## **4.[**Neuromodulation Tremor Device Set**](https://www.amazon.com/Baldoni-Neuromodulation-Tremor-Device-Carrying/dp/B0BBGPGBCV/ref=sr_1_12?crid=5JJE3ZLN6O9S&keywords=parkinson+glove&qid=1674017606&sprefix=parkinson+glove%2Caps%2C171&sr=8-12) ** **
+
+![image](https://user-images.githubusercontent.com/122709159/221525902-17db6ec7-8544-46ba-a1a5-f9fbe88ff531.png)
+
 **Search #4**
 
 **Keywords:** healthcare hand Robot
 
 **Search Results Link:** [Here](https://www.amazon.com/Baldoni-Neuromodulation-Tremor-Device-Carrying/dp/B0BBGPGBCV/ref=sr_1_12?crid=5JJE3ZLN6O9S&keywords=parkinson+glove&qid=1674017606&sprefix=parkinson+glove%2Caps%2C171&sr=8-12)
-
-**Selected Products** [**Neuromodulation Tremor Device Set**](https://www.amazon.com/Baldoni-Neuromodulation-Tremor-Device-Carrying/dp/B0BBGPGBCV/ref=sr_1_12?crid=5JJE3ZLN6O9S&keywords=parkinson+glove&qid=1674017606&sprefix=parkinson+glove%2Caps%2C171&sr=8-12) ** **
-
-## **4.Neuromodulation Tremor Device Set**
-
-![](RackMultipart20230227-1-l3ar2i_html_4be940fc66bcaa8c.jpg)
 
 - **Price** : $239
 - **Vendor** : Baldoni Neuromodulation
