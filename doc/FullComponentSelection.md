@@ -109,10 +109,7 @@ Requires high input voltage
   <tr>
    <td>
 
-<p id="gdcalert35" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image35.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert36">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image35.png" width="" alt="alt_text" title="image_tooltip">
+ ![image2](https://user-images.githubusercontent.com/122938115/221623287-8b3a3816-fcee-4c85-8660-1cdb932aab70.png)
 
    </td>
    <td>
@@ -192,10 +189,7 @@ High output voltage required
   <tr>
    <td>
 
-<p id="gdcalert36" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image36.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert37">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image36.png" width="" alt="alt_text" title="image_tooltip">
+ ![image3](https://user-images.githubusercontent.com/122938115/221623317-3504b470-996a-4114-8fda-ad4f09635e93.png)
 
    </td>
    <td>
@@ -281,10 +275,7 @@ High input/output voltage range
   <tr>
    <td>
 
-<p id="gdcalert37" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image37.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert38">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image37.png" width="" alt="alt_text" title="image_tooltip">
+![image4](https://user-images.githubusercontent.com/122938115/221623332-6355115c-b87a-4fb9-9b4e-0617c9cec1de.png)
 
    </td>
    <td>
@@ -370,10 +361,7 @@ Easy barrel jack input connection
   <tr>
    <td>
 
-<p id="gdcalert38" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image38.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert39">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image38.png" width="" alt="alt_text" title="image_tooltip">
+![image5](https://user-images.githubusercontent.com/122938115/221623353-a7bdde8b-d168-4ad1-afdb-1ce698accdf3.png)
 
    </td>
    <td>
@@ -453,10 +441,7 @@ Very wide range of voltage input options
   <tr>
    <td>
 
-<p id="gdcalert39" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image39.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert40">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image39.png" width="" alt="alt_text" title="image_tooltip">
+![image6](https://user-images.githubusercontent.com/122938115/221623386-4f385571-ee3d-4c42-8ab5-43cdb4d74017.png)
 
    </td>
    <td>
@@ -536,10 +521,7 @@ Low max voltage output
   <tr>
    <td>
 
-<p id="gdcalert40" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image40.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert41">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image40.png" width="" alt="alt_text" title="image_tooltip">
+![image7](https://user-images.githubusercontent.com/122938115/221623413-1d307659-331b-41c2-9de2-84ec6295036c.png)
 
    </td>
    <td>
@@ -621,10 +603,7 @@ Low current output
   <tr>
    <td>
 
-<p id="gdcalert41" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image41.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert42">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image41.png" width="" alt="alt_text" title="image_tooltip">
+![image9](https://user-images.githubusercontent.com/122938115/221623456-5b0742ea-282a-407f-83b5-6c9e5989dd7d.png)
 
    </td>
    <td>
@@ -702,10 +681,7 @@ Small
   <tr>
    <td>
 
-<p id="gdcalert42" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image42.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert43">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image42.png" width="" alt="alt_text" title="image_tooltip">
+![image10](https://user-images.githubusercontent.com/122938115/221623481-8c813bef-1c2e-47b5-84ef-c38b5d7fd14e.png)
 
    </td>
    <td>
@@ -777,10 +753,7 @@ cheap
   <tr>
    <td>
 
-<p id="gdcalert43" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image43.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert44">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image43.png" width="" alt="alt_text" title="image_tooltip">
+![image11](https://user-images.githubusercontent.com/122938115/221623508-8d9e44b3-241e-419d-8a42-698e2c993079.png)
 
    </td>
    <td>
