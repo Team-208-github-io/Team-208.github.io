@@ -2,7 +2,7 @@
 
 **EGR314 Spring Semester Project**
 
-## Project Name: Nerve Damage Therapy Glove 
+**Project Name: Nerve Damage Therapy Glove**
 
 **Team 208**
 
