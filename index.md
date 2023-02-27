@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/122709159/221691301-fc6a161e-1b05-4322-9fa3-a99ac9ab6c3f.jpg"/>
 </div>
 
-<div align='center' ><font size='70'>实习总结报告</font></div>
+<div align='center' >实习总结报告</font></div>
 
 <center>
 # **Nerve Damage Therapy Glove**
