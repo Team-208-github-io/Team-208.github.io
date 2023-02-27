@@ -1,6 +1,6 @@
 [<Back](https://team-208-github-io.github.io/Team-208/)
 
-#
+
 
 # 1.[Steadi-Two: Tremor Reducing Glove](https://steadiwear.com/products/steadi-two?variant=39602647597118&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AeTuncrpidJZvByOF4i6p4qZoAI4PKyvljDF8Ib5S0TTi_WE0Cz6n2SayBg)
 
