@@ -6,9 +6,9 @@ theme: minima
  
 **Team 208**
 
-**Project name: Nerve damage therapy glove**
+**Project Name: Nerve Damage Therapy Glove**
 
-**Team members:**
+**Team Members:**
 
 1. _Felicia Szleszinski_
 2. _Kyle Selasky_
@@ -17,7 +17,7 @@ theme: minima
 
 **Preparation date:** 1/22/2023 
 
-**Organisation information:**
+**Organization Information:**
 
 * University: _Arizona State University_ 
 * Class: _EGR314: Embedded Systems Design Project II_
