@@ -13,11 +13,11 @@
 **Description**: The Steadi-Two is a ground-breaking glove designed to significantly reduce your hand tremor in Essential tremor.
 Steadi-Two key features:
 
-*Provides INSTANT stability to your tremor.
+* Provides INSTANT stability to your tremor.
 
-*NO batteries or charging required.
+* NO batteries or charging required.
 
-*Lightweight: The device weighs under 1lb.
+* Lightweight: The device weighs under 1lb.
 
 | Positive Comments                                                                                                                                                                      |                                                                  |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
@@ -64,8 +64,9 @@ Steadi-Two key features:
 
 **Description** : 
 
--GYENNO Spoon for hand tremor：Steady helps people with eat more easily. 
--Steady is designed to counteract tremors and shaky hands that may be related to conditions like Parkinson's disease or essential tremor.
+* GYENNO Spoon for hand tremor
+* Steady helps people with eat more easily. 
+* Steady is designed to counteract tremors and shaky hands that may be related to conditions like Parkinson's disease or essential tremor.
 
 | Positive Comments                                                                                                                                                                                                                                                 |                                                             |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
