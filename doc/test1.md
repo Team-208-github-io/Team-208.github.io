@@ -141,3 +141,23 @@ Steadi-Two key features:
 | “Incredible product. If you think about the fact that you're paying to give someone their hand back, it is absolutely worth it.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 1. Too expensive (explicit)                                                                                                            |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 2. The design is not well made. (latent)                                                                                               |
 | However when you see it, all this is is the pump from a blood pressure cuff hooked to a glove with some tubing. There is absolutely no reason why this costs $200. This product could change the lives of millions if it were priced more reasonably.”                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 3. The design should offer more options to the user for the price. (latent)                                                            |
+
+**Search #4**
+
+**Keywords:** healthcare hand Robot
+
+**Search Results Link:** [Here](https://www.amazon.com/Baldoni-Neuromodulation-Tremor-Device-Carrying/dp/B0BBGPGBCV/ref=sr_1_12?crid=5JJE3ZLN6O9S&keywords=parkinson+glove&qid=1674017606&sprefix=parkinson+glove%2Caps%2C171&sr=8-12)
+
+**Selected Products** [**Neuromodulation Tremor Device Set**](https://www.amazon.com/Baldoni-Neuromodulation-Tremor-Device-Carrying/dp/B0BBGPGBCV/ref=sr_1_12?crid=5JJE3ZLN6O9S&keywords=parkinson+glove&qid=1674017606&sprefix=parkinson+glove%2Caps%2C171&sr=8-12) ** **
+
+## **4.Neuromodulation Tremor Device Set**
+
+![](RackMultipart20230227-1-l3ar2i_html_4be940fc66bcaa8c.jpg)
+
+- **Price** : $239
+- **Vendor** : Baldoni Neuromodulation
+- **Description** :
+  - Effective only for left hand hand-initiated tremors
+  - Works like a gyroscope to stabilize hand tremor motion
+  - Helps with eating and writing and Quiet enough to watch TV
+  - Weighs the same as a weighted glove at 0.65 lb
