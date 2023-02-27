@@ -1,4 +1,4 @@
-## Microcontroller Selection**
+## Microcontroller Selection
 
 **Final Microcontroller Choice: PIC16F18875-I/P**
 
