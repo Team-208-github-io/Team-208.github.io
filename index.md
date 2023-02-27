@@ -68,6 +68,20 @@ remote_theme: benbalter/retlab
 
 [Video of Presentation 1](https://www.youtube.com/watch?v=2TSZasZKMRI)
  
+ ## 5. Selected Design
+ 
+ ## 6. Component Selection
+ 
+ ## 7. Microcontroller Selection
+ 
+ ## 8. Block Diagram
+ 
+ ## 9. Hardware Proposal
+ 
+ ## 10. Software Proposal
+ 
+ 
+ 
 ## Appendix A
 
 [Link to "Team 208's Charter"](https://docs.google.com/document/d/1KnbiiMYb2K0HKReNCJJwkJIaMzlF_pRPQoaXfeS1aX0/edit?usp=sharing)
