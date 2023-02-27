@@ -21,7 +21,7 @@ remote_theme: benbalter/retlab
 
 * University: _Arizona State University_ 
 * Class: _EGR314: Embedded Systems Design Project II_
-* Professor: _Dan Aukes_
+* Professor: _Daniel Aukes_
 
 ## 1. Team Organization
 
