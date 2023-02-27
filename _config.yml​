@@ -1,3 +1,5 @@
-## !USE TEXT THEME
-# theme: jekyll-text-theme # Gem-based Jekyll Themes
-remote_theme: kitian616/jekyll-TeXt-theme # Jekyll Remote Theme, see https://github.com/benbalter/jekyll-remote-theme for more information.
+title: Team 208's Report Report
+description: EGR314 6PM Team 305
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
