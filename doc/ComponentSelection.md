@@ -1,3 +1,7 @@
+[<Back](https://team-208-github-io.github.io/Team-208/)
+
+## Component Selection
+
 **List of Major Components:**
 
 | Part Name/Description                                     | Unit Quantity |
