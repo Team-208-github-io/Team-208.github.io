@@ -54,7 +54,7 @@ remote_theme: benbalter/retlab
 
 [Video of Presentation 1](https://www.youtube.com/watch?v=2TSZasZKMRI)
  
-## 7. [Selected Design](doc/SelectedDesign.md)
+## [7.Selected Design](doc/SelectedDesign.md)
 
 * The selected design is based mostly on the balloon grip sensor, with aspects from the other two designs. This new design will have two force sensors on the end of the index finger and the inside of the thumb. These sensors will be in place of the balloon pressure sensor. The team decided that the balloon would be too complex to manufacture and calibrate. The temperature sensor will be on the palm of the glove, this will sense if something is too hot to be touching. A motor on top of the wrist will pull on resistive bands attached to each finger when a person is exceeding a certain grip strength. Data from the sensors will be communicated wirelessly. The PCB itself will not be attached to the glove and instead be housed in a protective case external to the glove. This external control box will have three LEDs on it to indicate user grip strength. The design will be powered by a wall power supply and is not designed to be worn casually. Instead this device will be designed to be used in physical therapy settings with people that have little to no feeling in their hands, due to nerve damage.
 
