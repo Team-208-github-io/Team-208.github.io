@@ -4,6 +4,8 @@
 
 ![image](https://user-images.githubusercontent.com/122709159/221495350-4f46d31d-caf7-45c4-978b-bacd2194debf.png)
 
+![Software Proposal drawio](https://user-images.githubusercontent.com/122709159/221672865-13ffddee-1672-40e5-96d5-aaabdc75f1db.png)
+
 [Software Proposal.drawio.pdf](https://github.com/Team-208-github-io/Team-208/files/10843849/Software.Proposal.drawio.pdf)
 
 **Description:**
