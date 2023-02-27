@@ -12,6 +12,9 @@
 **Balloon Grip Sensor Therapeutic Glove**
 ---
 ![Balloon Grip Sensor Therapeutic Glove](https://user-images.githubusercontent.com/122709159/213966462-f60028a3-5916-4f63-95ae-82ab78ccc513.png)
+
+__Description:__ This concept will be tethered to a wall power supply to avoid the need for a battery\. The wall power supply will then go to a control box that houses our PCB\. This will protect the PCB and make the glove design more streamlined\. This box will have LED indicators to display how hard someone is gripping\. The glove will have a balloon with a pressure sensor inside it to measure the grip strength of someones hand\. The motor on the back of the hand will increase tension in the glove if a person is gripping too hard, and release if they decrease grip strength\. This design will meet all class requirements\. This design will also feature a temperature sensor that can indicate if someone is gripping something too hot\.
+
 ---
 **Variable Force Sensing Temperature Pressure Glove**
 ---
