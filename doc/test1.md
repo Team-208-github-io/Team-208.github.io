@@ -192,6 +192,8 @@ Steadi-Two key features:
 
 # 5. [**Neofect Extender**](https://www.amazon.com/NEOFECT-Extender-Positioning-minimize-Spasticity/dp/B07D36JK48/ref=psdc_706809011_t2_B0B2X3JX9Z?th=1)
 
+![image](https://user-images.githubusercontent.com/122709159/221526774-be4f44e8-f69b-4f0e-ae93-f9dd946007a2.png)
+
 **Search #5**
 
 **Keywords: rehab glove**
