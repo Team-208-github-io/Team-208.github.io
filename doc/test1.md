@@ -2,7 +2,7 @@
 
 
 
-1.[Steadi-Two: Tremor Reducing Glove](https://steadiwear.com/products/steadi-two?variant=39602647597118&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AeTuncrpidJZvByOF4i6p4qZoAI4PKyvljDF8Ib5S0TTi_WE0Cz6n2SayBg)
+## 1.[Steadi-Two: Tremor Reducing Glove](https://steadiwear.com/products/steadi-two?variant=39602647597118&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AeTuncrpidJZvByOF4i6p4qZoAI4PKyvljDF8Ib5S0TTi_WE0Cz6n2SayBg)
 
 ![image](https://user-images.githubusercontent.com/122709159/221515062-8c28912f-899d-4127-8eeb-afe2ca104f11.png)
 
@@ -54,7 +54,7 @@ Steadi-Two key features:
 
 **Selected Products**
 
-**2.** [GYENNO Parkinson Spoon and Fork](https://www.amazon.com/GYENNO-Twist-Parkinson-Stabilizing-Parkinsons/dp/B07FRPX2H8?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AJE1XFPPGWEBV)
+## 2. [GYENNO Parkinson Spoon and Fork](https://www.amazon.com/GYENNO-Twist-Parkinson-Stabilizing-Parkinsons/dp/B07FRPX2H8?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AJE1XFPPGWEBV)
 
 ![](RackMultipart20230227-1-l3ar2i_html_92ecead2e59a8cf.png)
 
