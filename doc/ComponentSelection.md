@@ -1,7 +1,5 @@
 [<Back](https://team-208-github-io.github.io/Team-208/)
 
-[Full Componenet Selection Assignment](https://team-208-github-io.github.io/Team-208/doc/FullComponentSelection.md)
-
 # Component Selection
 
 **List of Major Components:**
