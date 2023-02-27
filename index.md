@@ -60,7 +60,8 @@ remote_theme: benbalter/retlab
 
 ## 8. Component Selection
 * After selecting our design, Team 208 determined the necessary components by comparing various pros and cons between different components. For each required component, three different options were compared to determine which would best suit our design. By listing three pros and cons, each team member was able to create justification for their selection.
-## 9. Microcontroller Selection
+
+## [9. Microcontroller Selection](doc/MicrocontrollerSelection.md)
  
 ## [10. Block Diagram](doc/BlockDiagram.md)
  
