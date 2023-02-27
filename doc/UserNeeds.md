@@ -6,13 +6,6 @@
 
 # **1.** [Steadi-Two: Tremor Reducing Glove](https://steadiwear.com/products/steadi-two?variant=39602647597118&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AeTuncrpidJZvByOF4i6p4qZoAI4PKyvljDF8Ib5S0TTi_WE0Cz6n2SayBg)
 
-
-
-<p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image16.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image16.png "image_tooltip")
-
 **Price**: $649.00
 
 **Vendor**: Steadi-Wear
@@ -20,12 +13,9 @@
 **Description**: The Steadi-Two is a ground-breaking glove designed to significantly reduce your hand tremor in Essential tremor.
 Steadi-Two key features:
 
-
-
     * Provides INSTANT stability to your tremor.
     * NO batteries or charging required.
     * Lightweight: The device weighs under 1lb.
-
 
 #### **Positive Comments**
 
