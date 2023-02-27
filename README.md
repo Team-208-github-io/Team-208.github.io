@@ -1,4 +1,4 @@
-![asu](https://user-images.githubusercontent.com/122709159/213967775-f1117c93-3efb-41ed-b1aa-34e423750c9c.png)
+
 
 theme: minima
 
@@ -15,7 +15,7 @@ theme: minima
 3. _Miles Wilson_
 4. _Mingqi Yu_
 
-**Preparation date:** 1/22/2023 
+**Preparation Date:** 2/26/2023 
 
 **Organization Information:**
 
