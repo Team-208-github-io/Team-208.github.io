@@ -1,11 +1,11 @@
 ---
-[Project Name: Nerve Damage Therapy Glove](doc/index.md)
+[Nerve Damage Therapy Glove](doc/index.md)
 ---
 
-## Project Name: Nerve Damage Therapy Glove
- 
 **EGR314 Spring Semester Project**
- 
+
+## Project Name: Nerve Damage Therapy Glove 
+
 **Team 208**
 
 **Team Members:**
