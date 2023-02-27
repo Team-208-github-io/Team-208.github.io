@@ -23,6 +23,7 @@ _This concept will be tethered to a wall power supply to avoid the need for a ba
 ![Variable Force Sensing Temperature Pressure Glove](https://user-images.githubusercontent.com/122709159/213966564-2cba5767-babe-4e55-85ea-b9585db0051f.png)
 
 * Description: 
+
 _This design will be battery powered for extra mobility\. It will be fully enclosed in the glove and will not have any external parts\. A compression sleeve on each finger will be the actuator\. These will relax the fingers when someone is gripping too hard\. LED indicators on the side of the glove will indicate grip strength\. There will also be a LED screen for easy viewing of data\. This design meets all class requirement_
 
 --- 
