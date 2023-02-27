@@ -1,5 +1,16 @@
 ## Product Requirements
 
+**Our Process:**
+
+* The team decided that each major category of the product requirements will  be the major categories that our user needs are organized into. These groups are not the suggested groups, but we felt like these will better inform our design based on our user needs. This will make it easier to both rank and generate the product requirements as we come up with and design our concepts. The product requirement list below is organized from the most important major category at the top and least at the bottom. Within each category the top most product requirement is the most important of that category.
+
+**Stakeholders:**
+
+* Target Users: People with nerve damage or limited mobility in the hand.
+Target Purchasers: This can be the target user directly or healthcare professionals for use in a medical/ rehabilitation facility.
+Sponsor and Advisors: ASU acts as a financial sponsor. EGR314 and Professor Aukes act as advisors to the final product.
+
+
 ## <a id="_u39aaa78yxfo"></a>Aspects:
 
 1. __Safety \(\*\*\*\):__
