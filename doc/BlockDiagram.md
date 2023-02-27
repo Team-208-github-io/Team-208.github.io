@@ -1,4 +1,6 @@
-**Block Diagram**
+[<Back](https://team-208-github-io.github.io/Team-208/)
+
+## Block Diagram
 
 ![image](https://user-images.githubusercontent.com/122709159/221494593-0db435db-6eb4-408a-84d6-0cdc903214d1.png)
 
