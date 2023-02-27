@@ -57,10 +57,13 @@ Steadi-Two key features:
 ![](RackMultipart20230227-1-l3ar2i_html_92ecead2e59a8cf.png)
 
 **Price** : $259.00
+
 **Vendor** : Amazon
+
 **Description** : 
-      * GYENNO Spoon for hand tremor：Steady helps people with eat more easily. 
-      * Steady is designed to counteract tremors and shaky hands that may be related to conditions like Parkinson's disease or essential tremor.
+
+    * GYENNO Spoon for hand tremor：Steady helps people with eat more easily. 
+    * Steady is designed to counteract tremors and shaky hands that may be related to conditions like Parkinson's disease or essential tremor.
 
 | Positive Comments                                                                                                                                                                                                                                                 |                                                             |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
