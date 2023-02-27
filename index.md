@@ -1,7 +1,5 @@
-## [啊啊啊啊啊草！！](doc/test1.md)
-
 ---
-title: Project Name: Nerve Damage Therapy Glove
+title: [Project Name: Nerve Damage Therapy Glove](doc/index.md)
 ---
 
 ## Project Name: Nerve Damage Therapy Glove
