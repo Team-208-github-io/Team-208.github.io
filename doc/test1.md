@@ -2,7 +2,7 @@
 
 
 
-# 1.[Steadi-Two: Tremor Reducing Glove](https://steadiwear.com/products/steadi-two?variant=39602647597118&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AeTuncrpidJZvByOF4i6p4qZoAI4PKyvljDF8Ib5S0TTi_WE0Cz6n2SayBg)
+1.[Steadi-Two: Tremor Reducing Glove](https://steadiwear.com/products/steadi-two?variant=39602647597118&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AeTuncrpidJZvByOF4i6p4qZoAI4PKyvljDF8Ib5S0TTi_WE0Cz6n2SayBg)
 
 ![image](https://user-images.githubusercontent.com/122709159/221515062-8c28912f-899d-4127-8eeb-afe2ca104f11.png)
 
@@ -13,9 +13,9 @@
 **Description**: The Steadi-Two is a ground-breaking glove designed to significantly reduce your hand tremor in Essential tremor.
 Steadi-Two key features:
 
-    * Provides INSTANT stability to your tremor.
-    * NO batteries or charging required.
-    * Lightweight: The device weighs under 1lb.
+-Provides INSTANT stability to your tremor.
+-NO batteries or charging required.
+-Lightweight: The device weighs under 1lb.
 
 | Positive Comments                                                                                                                                                                      |                                                                  |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
@@ -62,8 +62,8 @@ Steadi-Two key features:
 
 **Description** : 
 
-    * GYENNO Spoon for hand tremor：Steady helps people with eat more easily. 
-    * Steady is designed to counteract tremors and shaky hands that may be related to conditions like Parkinson's disease or essential tremor.
+-GYENNO Spoon for hand tremor：Steady helps people with eat more easily. 
+-Steady is designed to counteract tremors and shaky hands that may be related to conditions like Parkinson's disease or essential tremor.
 
 | Positive Comments                                                                                                                                                                                                                                                 |                                                             |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
