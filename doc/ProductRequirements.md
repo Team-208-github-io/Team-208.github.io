@@ -1,11 +1,14 @@
-Our Process: The team decided that each major category of the product requirements will  be the major categories that our user needs are organized into. These groups are not the suggested groups, but we felt like these will better inform our design based on our user needs. This will make it easier to both rank and generate the product requirements as we come up with and design our concepts. The product requirement list below is organized from the most important major category at the top and least at the bottom. Within each category the top most product requirement is the most important of that category.
-Aspects:
-Safety (***):
-1.1) The product’s structural components must not pinch, cut, or injure the user. 
-1.2) The product should be made out of regulatory compliant and sterile materials.
-1.3) All electrical components should be sealed, hidden, or inaccessible to the user.
-1.4) A temperature sensor should sense if the user is holding something hot.
-1.5) The product should generally move slowly and not require high voltages, this will keep total energy low.
+**Our Process:**
+* The team decided that each major category of the product requirements will  be the major categories that our user needs are organized into. These groups are not the suggested groups, but we felt like these will better inform our design based on our user needs. This will make it easier to both rank and generate the product requirements as we come up with and design our concepts. The product requirement list below is organized from the most important major category at the top and least at the bottom. Within each category the top most product requirement is the most important of that category.
+
+**Aspects:**
+1. Safety (***):
+
+3.1) The product’s structural components must not pinch, cut, or injure the user. 
+4.2) The product should be made out of regulatory compliant and sterile materials.
+5.3) All electrical components should be sealed, hidden, or inaccessible to the user.
+6.4) A temperature sensor should sense if the user is holding something hot.
+7.5) The product should generally move slowly and not require high voltages, this will keep total energy low.
 Ease of Use (***):
 2.1) The product should be able to be used by any type of user regardless of age, hand size, strength, or mobility.
 2.2) The product should adjust to fit any user.
