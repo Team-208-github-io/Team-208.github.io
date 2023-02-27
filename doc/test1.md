@@ -70,7 +70,17 @@ The device makes it easy to do simple life tasks. ( Explicit)
   </tr>
 </table>
 
-#### **Negative Comments ([Original Version ](https://www.canadianmanufacturing.com/manufacturing/steadiwear-inc-develops-a-new-glove-to-combat-parkinsons-and-hand-tremors-273834/))**
+
+
+
+
+
+
+
+
+
+## Negative Comments ([Original Version ](https://www.canadianmanufacturing.com/manufacturing/steadiwear-inc-develops-a-new-glove-to-combat-parkinsons-and-hand-tremors-273834/))
+
 
 <table>
   <tr>
