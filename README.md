@@ -1,5 +1,5 @@
 ![asu](https://user-images.githubusercontent.com/122709159/213967775-f1117c93-3efb-41ed-b1aa-34e423750c9c.png)
-theme: THEME-NAME
+theme: minima
 ## EGR314 Spring Semester Project
  
 **Team 208**
