@@ -1,5 +1,7 @@
-Selected Design
+**Selected Design**
+
 **Current Design Description:**
+
 * The selected design is based mostly on the balloon grip sensor, with aspects from the other two designs.
 This new design will have two force sensors on the end of the index finger and the inside of the thumb.
 These sensors will be in place of the balloon pressure sensor. The team decided that the balloon would be too complex to manufacture and calibrate. 
