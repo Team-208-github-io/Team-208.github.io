@@ -1,5 +1,7 @@
 [<Back](https://team-208-github-io.github.io/Team-208/)
 
+[Full Componenet Selection Assignment](doc/FullComponentSelection.md)
+
 # Component Selection
 
 **List of Major Components:**
@@ -118,6 +120,6 @@
 | External Supply Voltage should be determined by the dropout voltage for highest-voltage regulator (e.g., +14V for a +12V regulator).                                                                                                                                                                                                                                                                               |                                                              |                  |              |     |              |      |       |
 | If you have multiple units in your design (e.g., a base unit and remote unit) then you need a separate power budget for each unit 
 
- ![Full Componenet Selection Assignment](doc/FullComponentSelection.md)
+
 
 
