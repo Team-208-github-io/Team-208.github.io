@@ -70,11 +70,7 @@ The device makes it easy to do simple life tasks. ( Explicit)
 <li>Prevents messes from happening (Explicit)
 
 <li>Less stress ( Latent)
-</li>
-</ol>
-   </td>
-  </tr>
-</table>
+
 
 
 **Negative Comments**
