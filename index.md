@@ -94,3 +94,10 @@ remote_theme: benbalter/retlab
 
 
 Date: 1/22/2023 
+
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jemoji
+  - jekyll-remote-theme
