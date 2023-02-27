@@ -88,6 +88,18 @@ remote_theme: benbalter/retlab
 
 [Link to "Team 208's Design Ideation"](https://docs.google.com/document/d/1rwlRUkhHN8_KuPjEGyNR5eVbSKwuBbHuJvOcQV-REok/edit?usp=sharing)
 
+[Link to "Team 208's Block Diagram"](https://drive.google.com/drive/folders/1gePIfOKmyoVRG5gJwy18oY0E-uoj2G0x?usp=sharing)
+
+[Link to "Team 208's Component Selection"](https://drive.google.com/drive/folders/18fw8-NRQfdGiQpUY4lq2MCqJym8U9eRd?usp=sharing)
+
+[Link to "Team 208's Microcontroller Selection"](https://docs.google.com/document/d/1ygNtUk-ytzj8xwWlwaRVApXOlcguVhPF/edit?usp=sharing&ouid=110297201773216341986&rtpof=true&sd=true)
+
+[Link to "Team 208's Software Proposal"](https://drive.google.com/file/d/1uycpeu_h8ay-IR5ho-DRW8Z4Q4lC9UDP/view?usp=sharing)
+
+[Link to "Team 208's Hardware Proposal"](https://drive.google.com/drive/folders/1b9F3WLSFGzd8pe9cJ5nFffCRV0RW1SW-?usp=sharing)
+
+[Link to "Team 208's Team and Individual Cadence Subsystems"](https://drive.google.com/drive/folders/13jUH9Vl2aOTExGctnM7fT20rFPp-uSIZ?usp=sharing)
+
 [Link to "Team 208's Jan. 26 MPLAB"](https://drive.google.com/file/d/1nDP8JixQ91Ch6AFLqdIlS3i-IN7m-84g/view?usp=share_link) 
 
 [Link to "Team 208's Jan. 23 Checkpoint-1"](https://docs.google.com/presentation/d/1hgJn6WouZ5ktR1tikmxeMw9MUZq5OlJOVkCAVtTWgRQ/edit?usp=sharing)
