@@ -6,7 +6,7 @@
 
 | Part Name/Description                                     | Unit Quantity |
 |-----------------------------------------------------------|---------------|
-| Temperature Sensor Digital BOM                            |               |
+| Temperature Sensor Digital BOM                            | 1             |
 | 0.1 µF Ceramic Capacitor, +/-10%, X7R, 50V, 0805 package  | 4             |
 | 10K Ohm resistor surface mount                            | 4             |
 | Temperature Sensor Digital                                | 4             |
@@ -43,6 +43,8 @@
 
 * The bill of materials contains all the parts each section of the nerve damage therapy glove will be utilizing. All parts meet the requirements and unless specified otherwise are surface mounted.  Everything from the voltage regulators to the OP-AMP and even our resistors and capacitors are surface-mounted. The only parts that aren’t surface mounted are the barrel jack, motor, microcontroller, and wall plug to supply power to the device.  A variety of communication methods are utilized such as SPI, UART, and I2C.  Our wall power supply supplies voltage at a measurement of 5V and 1A to a switching voltage regulator. From the switching voltage regulator the power drops down and comes out to 3.3 V. Our force sensors are resistive which utilize an ADC device to convert their analog signals to SPI so it can be read by the microcontroller. The ESP32 utilizes UART to communicate all this data over wifi to a digital storage space such as someone’s personal device or the medical records system at a doctor’s office. 
 
+
+**Power Budget Table:**
 
 | Power Budget                                                                                                                                                                                                                                                                                                                                                                                                       |                                                              |                  |              |     |              |      |       |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|------------------|--------------|-----|--------------|------|-------|
@@ -116,6 +118,6 @@
 | External Supply Voltage should be determined by the dropout voltage for highest-voltage regulator (e.g., +14V for a +12V regulator).                                                                                                                                                                                                                                                                               |                                                              |                  |              |     |              |      |       |
 | If you have multiple units in your design (e.g., a base unit and remote unit) then you need a separate power budget for each unit 
 
-
+ ![Full Componenet Selection Assignment](doc/FullComponentSelection.md)
 
 
