@@ -1,5 +1,5 @@
 ---
-[Nerve Damage Therapy Glove](doc/index.md)
+[Nerve Damage Therapy Glove]([doc/index.md](https://team-208-github-io.github.io/Team-208/)
 ---
 
 **EGR314 Spring Semester Project**
