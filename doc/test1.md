@@ -13,11 +13,11 @@
 **Description**: The Steadi-Two is a ground-breaking glove designed to significantly reduce your hand tremor in Essential tremor.
 Steadi-Two key features:
 
--Provides INSTANT stability to your tremor.
+*Provides INSTANT stability to your tremor.
 
--NO batteries or charging required.
+*NO batteries or charging required.
 
--Lightweight: The device weighs under 1lb.
+*Lightweight: The device weighs under 1lb.
 
 | Positive Comments                                                                                                                                                                      |                                                                  |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
