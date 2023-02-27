@@ -1,4 +1,6 @@
-![ASU-Logo](https://user-images.githubusercontent.com/122709159/221691301-fc6a161e-1b05-4322-9fa3-a99ac9ab6c3f.jpg){:height="50%" width="50%"}
+<div  align="center">    
+![ASU-Logo](https://user-images.githubusercontent.com/122709159/221691301-fc6a161e-1b05-4322-9fa3-a99ac9ab6c3f.jpg)
+</div>
 
 # **Nerve Damage Therapy Glove**
 
