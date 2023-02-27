@@ -45,7 +45,7 @@ remote_theme: benbalter/retlab
 
 ## 4. Presentation 1
 
-![Jan  23 Checkpoint-1](https://user-images.githubusercontent.com/122709159/213969216-e0314781-86c9-40dc-9be9-0322e4fc1f9b.jpg)
+![Jan  23 Checkpoint-1](https://user-images.githubusercontent.com/122709159/213969216-e0314781-86c9-40dc-9be9-0322e4fc1f9b.jpg)(https://www.youtube.com/watch?v=2TSZasZKMRI)
 
 [Video of Presentation 1](https://www.youtube.com/watch?v=2TSZasZKMRI)
  
