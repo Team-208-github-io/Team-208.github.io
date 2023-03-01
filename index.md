@@ -80,22 +80,25 @@ For this project we decided to break up our software proposal into multiple diff
 
 [Link to "Team 208's Charter"](https://github.com/Team-208-github-io/Team-208/files/10844546/Team.208.s.Charter.pdf)
 
-[Link to "Team 208's User Needs and Benchmarking"](https://docs.google.com/document/d/1yNhMk36OD9xKp0WGD0XdSZ_GKACv3c8gfcodrc5hSE0/edit?usp=sharing)
+[Link to "Team 208's User Needs and Benchmarking"](https://github.com/Team-208-github-io/Team-208/files/10856865/User.Needs.and.Benchmarking.pdf)
 
-[Link to "Team 208's Design Ideation"](https://docs.google.com/document/d/1rwlRUkhHN8_KuPjEGyNR5eVbSKwuBbHuJvOcQV-REok/edit?usp=sharing)
+[Link to "Team 208's Design Ideation"](https://github.com/Team-208-github-io/Team-208/files/10856875/Design.Ideation.pdf)
 
-[Link to "Team 208's Block Diagram"](https://drive.google.com/drive/folders/1gePIfOKmyoVRG5gJwy18oY0E-uoj2G0x?usp=sharing)
+[Link to "Team 208's Block Diagram"](https://github.com/Team-208-github-io/Team-208/files/10856883/Block.Diagram-314.drawio.1.pdf)
 
-[Link to "Team 208's Component Selection"](https://drive.google.com/drive/folders/18fw8-NRQfdGiQpUY4lq2MCqJym8U9eRd?usp=sharing)
+[Link to "Team 208's Component Selection"](https://github.com/Team-208-github-io/Team-208/files/10856889/Component.Selection.pdf)
 
-[Link to "Team 208's Microcontroller Selection"](https://docs.google.com/document/d/1ygNtUk-ytzj8xwWlwaRVApXOlcguVhPF/edit?usp=sharing&ouid=110297201773216341986&rtpof=true&sd=true)
+[Link to "Team 208's Microcontroller Selection"](https://github.com/Team-208-github-io/Team-208/files/10856890/microcontroller-selection-table.docx.pdf)
 
 [Link to "Team 208's Software Proposal"](https://github.com/Team-208-github-io/Team-208/files/10856903/Software.Proposal.drawio.pdf)
 
-[Link to "Team 208's Hardware Proposal"](https://drive.google.com/drive/folders/1b9F3WLSFGzd8pe9cJ5nFffCRV0RW1SW-?usp=sharing)
+[Link to "Team 208's Hardware Proposal"](https://github.com/Team-208-github-io/Team-208/files/10856914/Team.PDF_V4-1.pdf)
+
+[Link to "Team 208's Verification Table"](https://github.com/Team-208-github-io/Team-208/files/10856922/Verification.Table.-.Sheet1.pdf)
+
+[Link to "Team 208's Team 208 BOM"](https://github.com/Team-208-github-io/Team-208/files/10856927/Team.208.BOM.xlsx.-.Sheet1.pdf)
 
 [Link to "Team 208's Team and Individual Cadence Subsystems"](https://drive.google.com/drive/folders/13jUH9Vl2aOTExGctnM7fT20rFPp-uSIZ?usp=sharing)
-
 
 [Link to "Team 208's Jan. 26 MPLAB"](https://drive.google.com/file/d/1nDP8JixQ91Ch6AFLqdIlS3i-IN7m-84g/view?usp=share_link) 
 
