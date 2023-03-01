@@ -90,7 +90,7 @@ For this project we decided to break up our software proposal into multiple diff
 
 [Link to "Team 208's Microcontroller Selection"](https://docs.google.com/document/d/1ygNtUk-ytzj8xwWlwaRVApXOlcguVhPF/edit?usp=sharing&ouid=110297201773216341986&rtpof=true&sd=true)
 
-[Link to "Team 208's Software Proposal"](https://drive.google.com/file/d/1uycpeu_h8ay-IR5ho-DRW8Z4Q4lC9UDP/view?usp=sharing)
+[Link to "Team 208's Software Proposal"](https://github.com/Team-208-github-io/Team-208/files/10856903/Software.Proposal.drawio.pdf)
 
 [Link to "Team 208's Hardware Proposal"](https://drive.google.com/drive/folders/1b9F3WLSFGzd8pe9cJ5nFffCRV0RW1SW-?usp=sharing)
 
