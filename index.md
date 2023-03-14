@@ -86,15 +86,15 @@ For this project we decided to break up our software proposal into multiple diff
 
 [Link to "Team 208's Design Ideation"](https://github.com/Team-208-github-io/Team-208/files/10856875/Design.Ideation.pdf)
 
-[Link to "Team 208's Block Diagram"](https://github.com/Team-208-github-io/Team-208/files/10856883/Block.Diagram-314.drawio.1.pdf)
+[Link to "Team 208's Block Diagram"](https://github.com/Team-208-github-io/Team-208/files/10964667/Block.Diagram-314.drawio.pdf)
 
 [Link to "Team 208's Component Selection"](https://github.com/Team-208-github-io/Team-208/files/10856889/Component.Selection.pdf)
 
 [Link to "Team 208's Microcontroller Selection"](https://github.com/Team-208-github-io/Team-208/files/10856890/microcontroller-selection-table.docx.pdf)
 
-[Link to "Team 208's Software Proposal"](https://github.com/Team-208-github-io/Team-208/files/10856903/Software.Proposal.drawio.pdf)
+[Link to "Team 208's Software Proposal"](https://github.com/Team-208-github-io/Team-208/files/10964668/Software.Proposal.drawio.1.pdf)
 
-[Link to "Team 208's Hardware Proposal"](https://github.com/Team-208-github-io/Team-208/files/10856914/Team.PDF_V4-1.pdf)
+[Link to "Team 208's Hardware Proposal"](https://github.com/Team-208-github-io/Team-208/files/10964653/Hardware.Proposal.pdf)
 
 [Link to "Team 208's Verification Table"](https://github.com/Team-208-github-io/Team-208/files/10856922/Verification.Table.-.Sheet1.pdf)
 
