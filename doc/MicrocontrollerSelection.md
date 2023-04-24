@@ -2,7 +2,7 @@
 
 # Microcontroller Selection
 
-**Final Microcontroller Choice: PIC16F18875-I/P**
+**Final Microcontroller Choice: PIC16LF15376-I/PT**
 
 **Rationale:**
 
@@ -159,7 +159,7 @@ from Problem Definition and Block Diagram
    </td>
    <td><strong><a href="https://www.microchip.com/en-us/product/PIC24FJ512GU408">link</a></strong>
    </td>
-   <td><strong><a href="https://www.digikey.com/en/products/detail/microchip-technology/PIC16F18875-I%2FP/5803537?utm_adgroup=General&utm_source=google&utm_medium=cpc&utm_campaign=PMax:%20Smart%20Shopping_Product_Zombie%20SKUS&utm_term=&utm_content=General&gclid=CjwKCAiAioifBhAXEiwApzCztiKsA2F-UhRKOECcYtAi6_Q1teACIXqo-rfiIIq--AozDiXbag5IjhoCYwAQAvD_BwE">link</a></strong>
+   <td><strong><a href="https://www.digikey.com/en/products/detail/microchip-technology/PIC16LF15376-I-PT/7164824?utm_source=snapeda&utm_medium=aggregator&utm_campaign=buynow">link</a></strong>
    </td>
   </tr>
   <tr>
@@ -171,7 +171,7 @@ from Problem Definition and Block Diagram
    </td>
    <td><strong><a href="https://ww1.microchip.com/downloads/aemDocuments/documents/MCU16/ProductDocuments/DataSheets/PIC24FJ512GU410-Family-Data-Sheet-DS30010203D.pdf">datasheet</a></strong>
    </td>
-   <td><strong><a href="https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/PIC16%28L%29F18855-75-Data-Sheet-40001802H.pdf">datasheet</a></strong>
+   <td><strong><a href="https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/PIC16-L-F15356-75-76-85-86-Microcontroller-Data-Sheet-40001866D.pdf">datasheet</a></strong>
    </td>
   </tr>
   <tr>
