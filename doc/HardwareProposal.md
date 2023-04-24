@@ -1,8 +1,9 @@
+
 [<Back](https://team-208-github-io.github.io/Team-208/)
 
 # Hardware Proposal: 
 
-![image](https://user-images.githubusercontent.com/122709159/224911156-a6892a63-56f3-4e4b-b298-47f13c0fa58b.png)
+![TSAP_V10_FULL_SCHEMATIC-1](https://user-images.githubusercontent.com/93965371/234107738-574bb77e-09e0-4cc7-a913-b657c7c2f1f1.png)
 
 [Hardware Proposal.pdf](https://github.com/Team-208-github-io/Team-208/files/10964633/Hardware.Proposal.pdf)
  
