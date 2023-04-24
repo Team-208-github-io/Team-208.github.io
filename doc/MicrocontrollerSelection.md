@@ -147,7 +147,7 @@ from Problem Definition and Block Diagram
 
 
    </td>
-   <td>PIC16F18875-I/P
+   <td>PIC16LF15376-I/PT
    </td>
   </tr>
   <tr>
@@ -183,7 +183,7 @@ from Problem Definition and Block Diagram
    </td>
    <td><strong><a href="https://www.microchip.com/en-us/application-notes/an1044">here</a></strong>
    </td>
-   <td><strong><a href="https://www.microchip.com/en-us/product/PIC16F18875#document-table">here</a></strong>
+   <td><strong><a href="https://www.microchip.com/en-us/product/PIC16F15376">here</a></strong>
    </td>
   </tr>
   <tr>
@@ -195,7 +195,7 @@ from Problem Definition and Block Diagram
    </td>
    <td><strong><a href="https://ww1.microchip.com/downloads/aemDocuments/documents/MCU16/ProductDocuments/DataSheets/PIC24FJ512GU410-Family-Data-Sheet-DS30010203D.pdf">Code on page 84</a></strong>
    </td>
-   <td><strong><a href="https://www.microchip.com/en-us/product/PIC16F18875#document-table">here</a> \
+   <td><strong><a href="https://www.microchip.com/en-us/product/PIC16F15376">here</a> \
  \
 <a href="https://ww1.microchip.com/downloads/en/Appnotes/TB3261-Technical-Brief-DS90003261A.pdf">getting started</a></strong>
    </td>
@@ -317,7 +317,7 @@ from Problem Definition and Block Diagram
    </td>
    <td><strong><a href="https://www.microchip.com/en-us/product/PIC24FJ512GU408#document-table">Link</a></strong>
    </td>
-   <td><strong><a href="https://www.microchip.com/en-us/product/PIC16F18875">Not needed</a></strong>
+   <td><strong><a href="https://www.microchip.com/en-us/product/PIC16F15376">Not needed</a></strong>
    </td>
   </tr>
   <tr>
