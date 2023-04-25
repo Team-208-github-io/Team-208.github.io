@@ -5,6 +5,11 @@
 
 ![TSAP_V10_FULL_SCHEMATIC-1](https://user-images.githubusercontent.com/93965371/234107738-574bb77e-09e0-4cc7-a913-b657c7c2f1f1.png)
 
+![Motor_Wheel_Drawings_PDF-1](https://user-images.githubusercontent.com/93965371/234371064-035c9df2-a176-4f21-9d54-11f0e8e38610.png)
+
+![Box Exploded Image](https://user-images.githubusercontent.com/93965371/234371189-d0385ce9-2c1e-4dcd-b9a5-4fc5450d09aa.png)
+
+
 [Hardware Proposal.pdf](https://github.com/Team-208-github-io/Team-208/files/10964633/Hardware.Proposal.pdf)
  
 **Description:**
