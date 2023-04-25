@@ -17,3 +17,5 @@
 
 * We decided to place all of our components into a 3D printed box\. Wires connecting to the PCB will come out of the box and will connect to the motor resting on top of the user's hands\. When the force sensors detect that the user is applying to much force to an object the motors will activate causing  the wries to pull the user's fingers back and prevent any damage to the object\. The box is desinged to be portable, weighing about 2-3 lbs and can be hung on a user's belt or pants, similar to a phone holder\. The glove itsef will be made of stretchy material to fit a variety of hand sizes\. 
 
+Our design is a lightweight, compact glove, that can be worn by anybody suffering from motor neuron diseases, allowing for them to have a degree of independendce and freedom so they can enjoy life to the fullest\.
+
