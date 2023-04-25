@@ -30,4 +30,9 @@ Instead this device will be designed to be used in physical therapy settings wit
 
 ![Sketch](https://user-images.githubusercontent.com/122709159/221492312-4bd2967f-89b7-4071-b39c-6c4ea64a4dd8.png)
 
+Key:
+- White: Motor to control the fingers as they get pulled back
+- Blue: Cables around the fingers and runnnign to motor
+- 
+
 * Glove Description: The glove will feature force sensors on the index finger and the thumb, a temperature sensor on the inside of the palm, and a motor on the back of the hand. The motor will pull at the resistive bands on each finger. A cable will run from the glove to the control box that will provide power, ground, and signal transmission.
