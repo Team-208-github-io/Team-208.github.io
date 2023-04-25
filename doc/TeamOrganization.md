@@ -4,14 +4,14 @@
 
 After reviewing the project requirements and determining the need of potential users for our final product along with what we'd like to learn and get out of the project our team decided upon the goals listed below:
 
-Create a project that is able to capture our audience’s attention during the Innovation Showcase.
-Developing a great addition to our engineering portfolios.
-Getting experience using industry level tools to create our project.
-Create a project that solves/remedies a real world problem.
-Create a project that can sense and respond to two or more environmental conditions. 
-Increase our knowledge of microcontrollers and interconnecting subsystems.
-Increase your proficiency in the use of the software and gain a clear understanding of how each module in MPLAB works and how it works.
-Improve team organization and coordination skills and clarify integrated common goals.
+- Create a project that is able to capture our audience’s attention during the Innovation Showcase.
+- Developing a great addition to our engineering portfolios.
+- Getting experience using industry level tools to create our project.
+- Create a project that solves/remedies a real world problem.
+- Create a project that can sense and respond to two or more environmental conditions. 
+- Increase our knowledge of microcontrollers and interconnecting subsystems.
+- Increase your proficiency in the use of the software and gain a clear understanding of how each module in MPLAB works and how it works.
+- Improve team organization and coordination skills and clarify integrated common goals.
 
 
 * 
