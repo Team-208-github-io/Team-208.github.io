@@ -77,7 +77,7 @@ The team schematic has been broken into sections to reduce confusion. There are 
  
 For this project we decided to break up our software proposal into multiple different sections as we believed it would be easier for readers of this report to understand. Each section shows how that part will operate and what it does as well. We have the main loop showing how the overall process will happen along with the chain showing how the wifi will communicate with UART and the ESP32 device.  The LED loop shows how many LEDs will turn on depending on how much force is applied to an object by a user when they are wearing the glove. Depending on how much force is applied either the green or the red LED will then turn on. The team used only one interrupt to run the update motor function every second.
 
-## [13. System Verification]
+## [13. System Verification](doc/SystemVerification.md)
 
 On the day of the innovation showcase, the final day to work on and present our design, only three out of four subsystems functioned. The force sensor subsystem didn't function due to the complexity of the ADC SPI chip used. The team never figured out SPI functionality for the motor driver as well. Because of this, for demonstration the team used PWN and DIR control of the motor driver. The temperature sensor, microcontroller, switching voltage regulator, and ESP32 subsystems all functioned as intended. An inturrupt was used to control the motor via incoming message from the MQTT server.
 
