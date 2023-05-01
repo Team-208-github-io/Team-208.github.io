@@ -81,13 +81,13 @@ For this project we decided to break up our software proposal into multiple diff
 
 On the day of the innovation showcase, the final day to work on and present our design, only three out of four subsystems functioned. The force sensor subsystem didn't function due to the complexity of the ADC SPI chip used. The team never figured out SPI functionality for the motor driver as well. Because of this, for demonstration the team used PWN and DIR control of the motor driver. The temperature sensor, microcontroller, switching voltage regulator, and ESP32 subsystems all functioned as intended. An inturrupt was used to control the motor via incoming message from the MQTT server.
 
-## [14. Lessons Learned]
+## 14. Lessons Learned
 
 * Datasheets should be read in full before buying/selecting a component.
 * If possible computer simulations of circuits should be used before a prototype is made.
 * Complexity is a killer, keep it simple.
 
-## [15. Recommendations for Future Students]
+## 15. Recommendations for Future Students
 
 1. Cadence is not KiCad, it is far worse. Read lots of documentation and always ask for help from the TA's.
 2. l
