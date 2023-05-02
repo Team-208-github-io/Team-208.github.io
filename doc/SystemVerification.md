@@ -1,4 +1,4 @@
-[<Back](https://team-208-github-io.github.io/Team-208/)
+[<Back](https://team-208-github-io.github.io/egr314-team208.github.io/)
 
 # EGR 314 Team 208 Verification Table 
 * Kyle Selasky, Felicia Szleszinski, Miles Wilson, Mingqi Yu											
