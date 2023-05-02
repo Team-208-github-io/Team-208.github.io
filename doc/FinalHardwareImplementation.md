@@ -65,7 +65,6 @@
 | | | | |
 |Motor and Motordriver BOM| | | |
 |0.033 µF ±10% 25V Ceramic Capacitor X7R 0805|Aillen|0805B333K250BD
-|https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/datasheet/C317C333K5R5TA|
 |CAP ALUM 100UF 20% 25V SMD|Panasonic Electronic Components|EEE-FN1E101UV|https://api.pim.na.industrial.panasonic.com/file_stream/main/fileversion/9127|
 |0.1 µF ±10% 50V Ceramic Capacitor X7R 1206|Murata|C1206S104K5RACAUTO |https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/RCE_X7R_X7S_25V-100V_E.pdf|
 |40V 100Ma Diode|Vishay|M1MA141KT1G|https://www.vishay.com/docs/88692/p600a.pdf|
