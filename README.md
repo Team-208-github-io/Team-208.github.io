@@ -51,7 +51,7 @@
 
 [Link to "Team 208's Block Diagram"](https://drive.google.com/drive/folders/1gePIfOKmyoVRG5gJwy18oY0E-uoj2G0x?usp=sharing)
 
-[Link to "Team 208's Component Selection"](https://drive.google.com/drive/folders/18fw8-NRQfdGiQpUY4lq2MCqJym8U9eRd?usp=sharing)
+[Link to "Team 208's Component Selection"](https://docs.google.com/document/d/1gxGf24RzSkaN4OhA51xZnK4SLqWebUAFRwf6iaRm7Ko/edit)
 
 [Link to "Team 208's Microcontroller Selection"](https://docs.google.com/document/d/1ygNtUk-ytzj8xwWlwaRVApXOlcguVhPF/edit?usp=sharing&ouid=110297201773216341986&rtpof=true&sd=true)
 
