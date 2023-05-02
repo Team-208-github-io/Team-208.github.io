@@ -61,7 +61,7 @@
 
 [Link to "Team 208's Team and Individual Cadence Subsystems"](https://drive.google.com/drive/folders/13jUH9Vl2aOTExGctnM7fT20rFPp-uSIZ?usp=sharing)
 
-[Link to "Team 208's Jan. 26 MPLAB"](https://drive.google.com/file/d/1nDP8JixQ91Ch6AFLqdIlS3i-IN7m-84g/view?usp=share_link) 
+[Link to "Team 208's Jan. 26 MPLAB"](https://drive.google.com/drive/u/2/folders/1MYIu6_AZAAcsMT3eeNksZkND2AwtgOII) 
 
 [Link to "Team 208's Jan. 23 Checkpoint-1"](https://docs.google.com/presentation/d/1hgJn6WouZ5ktR1tikmxeMw9MUZq5OlJOVkCAVtTWgRQ/edit?usp=sharing)
 
