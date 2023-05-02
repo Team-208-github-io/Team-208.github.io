@@ -71,11 +71,11 @@
 
 [Link to "Team 208's Component Selection"](https://github.com/Team-208-github-io/Team-208/files/10856889/Component.Selection.pdf)
 
-[Component Selection](doc/ComponentSelection.md)
+[Link to "Team 208's Component Selection"](doc/ComponentSelection.md)
 
 [Link to "Team 208's Microcontroller Selection"](https://github.com/Team-208-github-io/Team-208/files/10856890/microcontroller-selection-table.docx.pdf)
 
-[Microcontroller Selection](doc/MicrocontrollerSelection.md)
+[Link to "Team 208's Microcontroller Selection"](doc/MicrocontrollerSelection.md)
 
 [Link to "Team 208's Software Proposal"](https://github.com/Team-208-github-io/Team-208/files/10964668/Software.Proposal.drawio.1.pdf)
 
@@ -87,13 +87,10 @@
 
 [Link to "Team 208's Team and Individual Cadence Subsystems"](https://drive.google.com/drive/folders/13jUH9Vl2aOTExGctnM7fT20rFPp-uSIZ?usp=sharing)
 
-[Link to "Team 208's Jan. 26 MPLAB"](https://drive.google.com/file/d/1nDP8JixQ91Ch6AFLqdIlS3i-IN7m-84g/view?usp=share_link) 
-
 [Link to "Team 208's Jan. 23 Checkpoint-1"](https://docs.google.com/presentation/d/1hgJn6WouZ5ktR1tikmxeMw9MUZq5OlJOVkCAVtTWgRQ/edit?usp=sharing)
  
 [Link to "Team 208's Verification Table"](https://docs.google.com/spreadsheets/d/1MbYpHdRg1263v5kpPapXVnJQL_PWd12w/edit#gid=1199340293) 
 
 [Link to "Team 208's April 27 MPLAB"](https://drive.google.com/drive/u/2/folders/1MYIu6_AZAAcsMT3eeNksZkND2AwtgOII) 
-
 
 Last update: 05/1/2023 
