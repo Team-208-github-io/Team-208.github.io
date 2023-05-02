@@ -29,6 +29,12 @@
 
 # Table of contents:
 
+**Introduction:**
+
+* Add an introduction
+
+* Consider moving and updating the introduction from your product requirements document to the front of the report (½ page minimum)
+
 **[1. Team Organization](doc/TeamOrganization.md)**
 
 **[2. User Needs, Benchmarking, and Requirements](doc/UserNeeds.md)**
@@ -36,26 +42,26 @@
 **[3. Product Requirements](doc/ProductRequirements.md)**
 
 **[4. Design Ideation](doc/DesignIdeation.md)**
-
-**[5. Presentation 1](https://www.youtube.com/watch?v=2TSZasZKMRI)**
  
-**[7. Selected Design](doc/SelectedDesign.md)**
+**[5. Final Selected Design](doc/SelectedDesign.md)**
 
-**[8. Component Selection](doc/ComponentSelection.md)**
+**[6. Final Component Selection](doc/ComponentSelection.md)**
 
-**[9. Microcontroller Selection](doc/MicrocontrollerSelection.md)**
- 
-**[10. Block Diagram](doc/BlockDiagram.md)**
+**[7. Final Block Diagram](doc/BlockDiagram.md)**
 
-**[11. Hardware Proposal](doc/HardwareProposal.md)**
+**[8. Final Hardware Proposal](doc/HardwareProposal.md)**
 
-**[12. Software Proposal](doc/SoftwareProposal.md)**
+**[9. Final Hardware Implementation/Software Proposal](doc/SoftwareProposal.md)**
 
-**[13. System Verification](doc/SystemVerification.md)**
+**[10. Final Software Implementation]
 
-**[14. Lessons Learned](doc/LessonsLearned.md)**
+**[11. System Verification](doc/SystemVerification.md)**
 
-**[15. Recommendations for Future Students](doc/Recommendations.md)**
+**[12. Lessons Learned](doc/LessonsLearned.md)**
+
+**[13. Recommendations for Future Students](doc/Recommendations.md)**
+
+**[Presentation 1](https://www.youtube.com/watch?v=2TSZasZKMRI)**
 
 ## Appendix A
 
@@ -70,6 +76,8 @@
 [Link to "Team 208's Component Selection"](https://github.com/Team-208-github-io/Team-208/files/10856889/Component.Selection.pdf)
 
 [Link to "Team 208's Microcontroller Selection"](https://github.com/Team-208-github-io/Team-208/files/10856890/microcontroller-selection-table.docx.pdf)
+
+[Microcontroller Selection](doc/MicrocontrollerSelection.md)
 
 [Link to "Team 208's Software Proposal"](https://github.com/Team-208-github-io/Team-208/files/10964668/Software.Proposal.drawio.1.pdf)
 
