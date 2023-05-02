@@ -49,41 +49,42 @@
 
 **Bill of Materials Page 2**
 
-|Part Name/Description|Manufacturer|Manufacturer Part #|Datasheet Link| | | | | | | |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Temperature Sensor Digital BOM| | | | | | | | | | |
-|0.1 µF Ceramic Capacitor, +/-10%, X7R, 50V, 0805 package|Multicomp|C1206S104K5RACAUTO |https://www.digikey.com/en/htmldatasheets/production/3722546/0/0/1/c1206s104k5racauto.html| | | | | | | |
-|10K Ohm resistor surfacemount |Vishay Dale|CRCW080510K0JNEB|https://www.vishay.com/docs/20066/rcce3.pdf| | | | | | | |
-|Temperature Sensor Digital|Microchip Technology|TC74A4-3.3VCTTR|https://ww1.microchip.com/downloads/en/DeviceDoc/21462D.pdf| | | | | | | |
-|Barrel Jack|Switchcraft Inc.|RAPC742X|https://www.switchcraft.com/assets/1/24/rapc742x_cd.pdf?4751| | | | | | | |
-|4.7K Ohm resistor surfacemount|Vishay Dale|CRCW12064K70FKEBC|https://www.digikey.com/en/htmldatasheets/production/2718019/0/0/1/crcw1206549rfkeac.html| | | | | | | |
-| | | | | | | | | | | |
-|Shared Test Points BOM| | | | | | | | | | |
-|Test Points|Keystone Electronics|5000|https://www.keyelco.com/userAssets/file/M65p56.pdf| | | | | | | |
-|LED - Green  Only takes 2.4 V max|Adafruit Industries LLC|LTST-C230KGKT|https://optoelectronics.liteon.com/upload/download/DS22-2000-256/LTST-C230KGKT.pdf| | | | | | | |
-|220 Ohm resistor surfacemount|YAGEO|CRCW12064K70FKEBC|https://www.yageo.com/upload/media/product/productsearch/datasheet/lr/YAGEO%20CFR_datasheet_2021v0.pdf| | | | | | | |
-| | | | | | | | | | | |
-|Motor and Motordriver BOM| | | | | | | | | | |
+|Part Name/Description|Manufacturer|Manufacturer Part #|Datasheet Link|
+|:----|:----|:----|:----|
+|Temperature Sensor Digital BOM| | | |
+|0.1 µF Ceramic Capacitor, +/-10%, X7R, 50V, 0805 package|Multicomp|C1206S104K5RACAUTO |https://www.digikey.com/en/htmldatasheets/production/3722546/0/0/1/c1206s104k5racauto.html|
+|10K Ohm resistor surfacemount |Vishay Dale|CRCW080510K0JNEB|https://www.vishay.com/docs/20066/rcce3.pdf|
+|Temperature Sensor Digital|Microchip Technology|TC74A4-3.3VCTTR|https://ww1.microchip.com/downloads/en/DeviceDoc/21462D.pdf|
+|Barrel Jack|Switchcraft Inc.|RAPC742X|https://www.switchcraft.com/assets/1/24/rapc742x_cd.pdf?4751|
+|4.7K Ohm resistor surfacemount|Vishay Dale|CRCW12064K70FKEBC|https://www.digikey.com/en/htmldatasheets/production/2718019/0/0/1/crcw1206549rfkeac.html|
+| | | | |
+|Shared Test Points BOM| | | |
+|Test Points|Keystone Electronics|5000|https://www.keyelco.com/userAssets/file/M65p56.pdf|
+|LED - Green  Only takes 2.4 V max|Adafruit Industries LLC|LTST-C230KGKT|https://optoelectronics.liteon.com/upload/download/DS22-2000-256/LTST-C230KGKT.pdf|
+|220 Ohm resistor surfacemount|YAGEO|CRCW12064K70FKEBC|https://www.yageo.com/upload/media/product/productsearch/datasheet/lr/YAGEO%20CFR_datasheet_2021v0.pdf|
+| | | | |
+|Motor and Motordriver BOM| | | |
 |0.033 µF ±10% 25V Ceramic Capacitor X7R 0805|Aillen|0805B333K250BD
-|https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/datasheet/C317C333K5R5TA| | | | | | | |
-|CAP ALUM 100UF 20% 25V SMD|Panasonic Electronic Components|EEE-FN1E101UV|https://api.pim.na.industrial.panasonic.com/file_stream/main/fileversion/9127| | | | | | | |
-|0.1 µF ±10% 50V Ceramic Capacitor X7R 1206|Murata|C1206S104K5RACAUTO |https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/RCE_X7R_X7S_25V-100V_E.pdf| | | | | | | |
-|40V 100Ma Diode|Vishay|M1MA141KT1G|https://www.vishay.com/docs/88692/p600a.pdf| | | | | | | |
-|Connector Header Through Hole 6 position 0.098" (2.50mm)|JST Sales America Inc.|B5B-XH-A(LF)(SN)|https://www.jst-mfg.com/product/pdf/eng/eXH.pdf| | | | | | | |
-|Connector Header Through Hole 12 position 0.100" (2.54mm)|Molex|10897120|https://www.molex.com/pdm_docs/sd/010897120_sd.pdf| | | | | | | |
-|5V DC MOTOR |Tsukasa|JSX5300-370|https://www.tsukasa-d.co.jp/en/data_download/english_catalogue.pdf| | | | | | | |
-|Full Half-Bridge Drivers|Infineon Technologies|IFX9201SGAUMA1|https://www.infineon.com/dgdl/Infineon-IFX9201SG-DS-v01_01-EN.pdf?fileId=5546d4624cb7f111014d2e8916795dea&ack=t| | | | | | | |
-| | | | | | | | | | | |
-|Microcontroller and Voltage Regulator BOM| | | | | | | | | | |
-| LM2575 Voltage Regulator|Microchip|LM2575T-3.3GOS-ND|https://www.onsemi.com/pdf/datasheet/lm2575-d.pdf| | | | | | | |
-|WSU050-4000 AC/DC Convertor|Triad Magnetics|533-WSU050-4000-R|https://www.mouser.com/datasheet/2/410/WSU050_4000_R-1892988.pdf| | | | | | | |
-|PIC16LF15376-I/PT Microcontroller|Microchip|PIC16F18876-I/PT|https://s3.amazonaws.com/snapeda/datasheet/PIC16LF15376-I/PT_Microchip.pdf| | | | | | | |
-| | | | | | | | | | | |
-|Force Sensor| | | | | | | | | | |
-|IC ADC 24BIT SIGMA-DELTA 20TSSOP  3.4 V max|Microchip Technology|MCP3562RT-E/ST|https://ww1.microchip.com/downloads/en/DeviceDoc/MCP3561.2.4R-Data-Sheet-DS200006391A.pdf| | | | | | | |
-|Op-Amp for Force Sensor|Onsemi|NCV321SN3T1G|https://www.onsemi.com/pdf/datasheet/lmv321-d.pdf| | | | | | | |
-|Sensors RoHS|UNEO|Uneo GHF10|https://xonstorage.blob.core.windows.net/pdf/uneo_ghf10_xonjuly20_20_link.pdf| | | | | | | |
-|1K Ohm resistor surfacemount|TE Connectivity Passive Product|CRG1206F1K0|https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1773204&DocType=DS&DocLang=English| | | | | | | |
+|https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/datasheet/C317C333K5R5TA|
+|CAP ALUM 100UF 20% 25V SMD|Panasonic Electronic Components|EEE-FN1E101UV|https://api.pim.na.industrial.panasonic.com/file_stream/main/fileversion/9127|
+|0.1 µF ±10% 50V Ceramic Capacitor X7R 1206|Murata|C1206S104K5RACAUTO |https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/RCE_X7R_X7S_25V-100V_E.pdf|
+|40V 100Ma Diode|Vishay|M1MA141KT1G|https://www.vishay.com/docs/88692/p600a.pdf|
+|Connector Header Through Hole 6 position 0.098" (2.50mm)|JST Sales America Inc.|B5B-XH-A(LF)(SN)|https://www.jst-mfg.com/product/pdf/eng/eXH.pdf|
+|Connector Header Through Hole 12 position 0.100" (2.54mm)|Molex|10897120|https://www.molex.com/pdm_docs/sd/010897120_sd.pdf|
+|5V DC MOTOR |Tsukasa|JSX5300-370|https://www.tsukasa-d.co.jp/en/data_download/english_catalogue.pdf|
+|Full Half-Bridge Drivers|Infineon Technologies|IFX9201SGAUMA1|https://www.infineon.com/dgdl/Infineon-IFX9201SG-DS-v01_01-EN.pdf?fileId=5546d4624cb7f111014d2e8916795dea&ack=t|
+| | | | |
+|Microcontroller and Voltage Regulator BOM| | | |
+| LM2575 Voltage Regulator|Microchip|LM2575T-3.3GOS-ND|https://www.onsemi.com/pdf/datasheet/lm2575-d.pdf|
+|WSU050-4000 AC/DC Convertor|Triad Magnetics|533-WSU050-4000-R|https://www.mouser.com/datasheet/2/410/WSU050_4000_R-1892988.pdf|
+|PIC16LF15376-I/PT Microcontroller|Microchip|PIC16F18876-I/PT|https://s3.amazonaws.com/snapeda/datasheet/PIC16LF15376-I/PT_Microchip.pdf|
+| | | | |
+|Force Sensor| | | |
+|IC ADC 24BIT SIGMA-DELTA 20TSSOP  3.4 V max|Microchip Technology|MCP3562RT-E/ST|https://ww1.microchip.com/downloads/en/DeviceDoc/MCP3561.2.4R-Data-Sheet-DS200006391A.pdf|
+|Op-Amp for Force Sensor|Onsemi|NCV321SN3T1G|https://www.onsemi.com/pdf/datasheet/lmv321-d.pdf|
+|Sensors RoHS|UNEO|Uneo GHF10|https://xonstorage.blob.core.windows.net/pdf/uneo_ghf10_xonjuly20_20_link.pdf|
+|1K Ohm resistor surfacemount|TE Connectivity Passive Product|CRG1206F1K0|https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1773204&DocType=DS&DocLang=English|
+
 
 ## Front of Team PCB
 
