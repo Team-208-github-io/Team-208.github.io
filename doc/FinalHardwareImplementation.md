@@ -14,15 +14,11 @@
 
 ![BAck of Team PCB](![TSAP_V10_BACK](https://user-images.githubusercontent.com/93965371/235585057-340d5f08-fe59-4ed1-bea1-9b4dc06f512c.png)
 
-![Full Team PCB] (![TSAP_V10](https://user-images.githubusercontent.com/93965371/235585417-8f05e2a2-1f07-4390-abd6-e963129dcafd.png)
+![Full Team PCB](![TSAP_V10](https://user-images.githubusercontent.com/93965371/235585417-8f05e2a2-1f07-4390-abd6-e963129dcafd.png)
 
 
+**Version 2.0**
+
+* If we had the chance to create a 2nd version of our project we would change to a differetn ADC chip. Our ADC chip came with very little in the way of documentation concerning communication with SPI. We would want to do more research and find a chip that has better support for SPI. We would also want to do more research concerning how our temperature sensrs and motor driver could communicate to the MQTT. THat was something which took our team a long time to figure out. Making sure we also got our motor driver able to properly communicate suing SPI would be a main focus ging forward. By focusing on these pain points we could solve these problems faster and have more time to figure out any other challenges that might come up while putting together our PCB. 
 
 
-Include an image of the team's final schematics as a figure in the report. you may use landscape mode on this page to better fit the format of the schematic.
-Discuss how the functionality of this schematic satisfies user needs and product requirements though an in depth discussion of function.
-Discuss your team's design and decision making process related to this section
-Include the team's bill of materials in the appendix
-Include front and back screenshots of the team's final PCB design.
-Include front and back photos of the team's final PCB design.
-If you were to create a "Version 2.0" of your hardware design, discuss what could be improved in the hardware design and why it should be improved. Use the schematic above to support the discussion. (½ page minimum)
