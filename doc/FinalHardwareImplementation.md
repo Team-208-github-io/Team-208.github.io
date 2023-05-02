@@ -87,7 +87,7 @@
 
 ## Front of Team PCB
 
-<img src="ttps://user-images.githubusercontent.com/93965371/235584936-033eb9b9-9dda-40e4-a097-e38e64e9803d.png>
+<img src="https://user-images.githubusercontent.com/93965371/235584936-033eb9b9-9dda-40e4-a097-e38e64e9803d.png>
        
 ## Back of Team PCB
 
