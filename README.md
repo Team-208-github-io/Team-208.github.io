@@ -61,13 +61,13 @@
 
 [Link to "Team 208's Design Ideation"](https://github.com/Team-208-github-io/Team-208/files/10856875/Design.Ideation.pdf)
 
-[Link to "Team 208's Block Diagram"]((https://github.com/Team-208-github-io/egr314-team208.github.io/files/11370143/Block.Diagram_V5.pdf)
+[Link to "Team 208's Block Diagram"](https://github.com/Team-208-github-io/egr314-team208.github.io/files/11370143/Block.Diagram_V5.pdf)
 
 [Link to "Team 208's Component Selection"](https://github.com/Team-208-github-io/Team-208/files/10856889/Component.Selection.pdf)
 
 [Component Selection](doc/ComponentSelection.md)**
 
-[Link to "Team 208's Microcontroller Selection"]((https://github.com/Team-208-github-io/egr314-team208.github.io/files/11371331/microcontroller-selection-table.docx.pdf)
+[Link to "Team 208's Microcontroller Selection"](https://github.com/Team-208-github-io/egr314-team208.github.io/files/11371331/microcontroller-selection-table.docx.pdf)
 
 [Microcontroller Selection](doc/MicrocontrollerSelection.md)
 
