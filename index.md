@@ -86,12 +86,15 @@ On the day of the innovation showcase, the final day to work on and present our 
 * Datasheets should be read in full before buying/selecting a component.
 * If possible computer simulations of circuits should be used before a prototype is made.
 * Complexity is a killer, keep it simple.
+* Documnet, documnet, document!!!! Keep records of all changes you make to your PCB if errors occur and parts don't work
+* Order more parts than you think you'll need. 
+* Video something everytime you successfully test. Parts will break the morning you need them most.
 
 ## 15. Recommendations for Future Students
 
 1. Cadence is not KiCad, it is far worse. Read lots of documentation and always ask for help from the TA's.
-2. l
-3. l
+2. Coordinate with your team. if things come up let them know as soon as possible. They depend on you just as yu depend on them
+3. Projects will take longer than you expect. Give yourself extra time to fix any errors.
 4. l
 5. l
  
