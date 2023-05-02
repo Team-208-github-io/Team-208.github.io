@@ -29,9 +29,7 @@
 
 # Table of contents:
 
-**Introduction:**
-
-* In order to meet the requirements for the project Team 208 chose to create a glove that could help those who suffer from neurological disorders such as tremors, parkinson's diseases, and others. Sometimes when people suffer from these disorders they lose the ability to accuratley sense how much pressure they may be applying to an object. For an example when holding someone else's hand that person will be crusing the other's hand, however their neurvous system will not be accurately transmitting the grip strength. Sometimes they also have trouble accurately feeling the temperature of certain objects. Our goal was to design a glove that could help people who suffer from these ailments regain a sense of agecny and independence in their lives. The goal is for people to be able to use this glove either in a medical setting such as a physical rehabilitation facility or potentially a wearable version someone could have on it their daily lives. If someone is diagnosed with one of these conditions they could then go to a rehab place and wear a glove while performing a series of tests such as gripping various objects. A force sensor on the glove would be constantly communicating with MQTT recording the pressure applied. When someone applies to much pressure to an object bands that are wrapped around the wearer's fingers will pull their fingers back, preventing them from breaking the object they are grippping. A temperature sensor embedded in the index finger works on the same principle. When the temperature sensor that detects and object which is to hot the motor will activate retracting tthe fingers away from the object.
+**[Introduction](doc/Introduction.md)**
 
 **[1. Team Organization](doc/TeamOrganization.md)**
 
