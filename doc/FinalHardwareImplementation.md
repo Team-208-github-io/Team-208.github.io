@@ -1,6 +1,7 @@
 [<Back](https://team-208-github-io.github.io/egr314-team208.github.io/)
 
-![Bill of Materials Page 1](![Team 208 BOM xlsx - Sheet1-1](https://user-images.githubusercontent.com/93965371/235584370-83d68871-24fd-43c6-bfcd-4d8cadc4a723.png)
+**Bill of Materials Page 1**
+(![Team 208 BOM xlsx - Sheet1-1](https://user-images.githubusercontent.com/93965371/235584370-83d68871-24fd-43c6-bfcd-4d8cadc4a723.png)
 
 ![Bill of Materials Page 2] (![Team 208 BOM xlsx - Sheet1-2](https://user-images.githubusercontent.com/93965371/235584490-64481f6c-d4e1-4fa9-9736-7c677d43359b.png)
 
