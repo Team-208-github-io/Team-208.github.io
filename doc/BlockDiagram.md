@@ -3,10 +3,7 @@
 
 # Block Diagram
 
-![Block Diagram_V4](https://user-images.githubusercontent.com/93965371/235585882-9bcac0f9-3372-46cd-b35b-27db9dcc84db.png)
-
-
-
+![Block Diagram_V5](https://user-images.githubusercontent.com/122709159/235588423-42b6ab6f-4ccd-4a87-9da9-076404957cb9.png)
 
 **Description:**
 To provide power for our pressure glove for nerve damage, we will be using a 5V, 1A wall outlet to operate the device. The power will flow into a voltage regulator, which will output 3.3V and proceed to the microcontroller. The microcontroller will communicate with all our sensors and receive data. When the user wears the glove and grips something, the thin-film pressure sensors will send that information back to the microcontroller via an ADC, which will convert it into an SPI signal. The ESP32 Wi-Fi module will utilize UART to upload the data to the server at a medical facility or to a phone. 
