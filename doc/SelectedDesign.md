@@ -25,6 +25,8 @@ Instead this device will be designed to be used in physical therapy settings wit
 
 * Control Box Description: The control box will have two holes near the bottom. One for the signal, power, and ground wires that lead to the glove, and the other for the wall power supply. The box also features three holes for the three indicator LEDs. 
 
+** Final Selected Design**
+  * The final design is pratically the same as the selected design. The only change we made was removing one of the resistive bands from the thumb on the user's hands. Do to the thumbs unique bone strucutre along with movement range, time constraints our team decided to drop that proposal. In future designs we would absolutely consider adding a resisitive band back onto the thumb.
 
 **Drawing of Glove**
 
