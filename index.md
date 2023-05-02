@@ -33,29 +33,29 @@
 
 [2. User Needs, Benchmarking, and Requirements](doc/UserNeeds.md)
 
-# [3. Product Requirements](doc/ProductRequirements.md)
+[3. Product Requirements](doc/ProductRequirements.md)
 
-## [4. Design Ideation](doc/DesignIdeation.md)
+[4. Design Ideation](doc/DesignIdeation.md)
 
-## [5. Presentation 1](https://www.youtube.com/watch?v=2TSZasZKMRI)
+[5. Presentation 1](https://www.youtube.com/watch?v=2TSZasZKMRI)
  
-## [7. Selected Design](doc/SelectedDesign.md)
+[7. Selected Design](doc/SelectedDesign.md)
 
-## [8. Component Selection](doc/ComponentSelection.md)
+[8. Component Selection](doc/ComponentSelection.md)
 
-## [9. Microcontroller Selection](doc/MicrocontrollerSelection.md)
+[9. Microcontroller Selection](doc/MicrocontrollerSelection.md)
  
-## [10. Block Diagram](doc/BlockDiagram.md)
+[10. Block Diagram](doc/BlockDiagram.md)
 
-## [11. Hardware Proposal](doc/HardwareProposal.md)
+[11. Hardware Proposal](doc/HardwareProposal.md)
 
-## [12. Software Proposal](doc/SoftwareProposal.md)
+[12. Software Proposal](doc/SoftwareProposal.md)
 
-## [13. System Verification](doc/SystemVerification.md)
+[13. System Verification](doc/SystemVerification.md)
 
-## 14. Lessons Learned
+14. Lessons Learned
 
-## 15. Recommendations for Future Students
+15. Recommendations for Future Students
 
 ## Appendix A
 
