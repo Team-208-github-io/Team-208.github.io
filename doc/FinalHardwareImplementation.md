@@ -42,41 +42,43 @@
 
 **Bill of Materials Page 2**
 
-|Part Name/Description|Manufacturer|Manufacturer Part #|Vendor Link|Datasheet Link|Supplier|Supplier Part #|
-|:----|:----|:----|:----|:----|:----|:----|
-|Temperature Sensor Digital BOM| | | | | | |
-|0.1 µF Ceramic Capacitor, +/-10%, X7R, 50V, 0805 package|Multicomp|C1206S104K5RACAUTO |Digikey Link|Here|DigiKey|C1206S104K5RACAUTO|
-|10K Ohm resistor surfacemount |Vishay Dale|CRCW080510K0JNEB|Digikey Link|Here|DigiKey|65J1362CRCW080510K0JNEB|
-|Temperature Sensor Digital|Microchip Technology|TC74A4-3.3VCTTR|Here|Here|DigiKey|TC74A43.3VCTTR|
-|Barrel Jack|Switchcraft Inc.|RAPC742X|Link|Link|PRLTA 109|RAPC742X|
-|4.7K Ohm resistor surfacemount|Vishay Dale|CRCW12064K70FKEBC|Digikey Link|Here|Digikey|CRCW12064K70FKEBC|
-| | | | | | | |
-|Shared Test Points BOM| | | | | | |
-|Test Points|Keystone Electronics|5000|link|link|Digi-Key|36-5000-ND|
-|LED - Green  Only takes 2.4 V max|Adafruit Industries LLC|LTST-C230KGKT|Digikey Link|Link|Digi-Key|LTST-C230KGKT|
-|220 Ohm resistor surfacemount|YAGEO|CRCW12064K70FKEBC|Digikey Link|Link|PRLTA 109|CRCW12064K70FKEBC|
-| | | | | | | |
-|Motor and Motordriver BOM| | | | | | |
+|Team 208 Bill of Materials | | | | | | | | | | | |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Part Name/Description|Manufacturer|Manufacturer Part #|Vendor Link|Datasheet Link| | | | | | | |
+|Temperature Sensor Digital BOM| | | | | | | | | | | |
+|0.1 µF Ceramic Capacitor, +/-10%, X7R, 50V, 0805 package|Multicomp|C1206S104K5RACAUTO |Digikey Link|Here| | | | | | | |
+|10K Ohm resistor surfacemount |Vishay Dale|CRCW080510K0JNEB|Digikey Link|Here| | | | | | | |
+|Temperature Sensor Digital|Microchip Technology|TC74A4-3.3VCTTR|Here|Here| | | | | | | |
+|Barrel Jack|Switchcraft Inc.|RAPC742X|Link|Link| | | | | | | |
+|4.7K Ohm resistor surfacemount|Vishay Dale|CRCW12064K70FKEBC|Digikey Link|Here| | | | | | | |
+| | | | | | | | | | | | |
+|Shared Test Points BOM| | | | | | | | | | | |
+|Test Points|Keystone Electronics|5000|link|link| | | | | | | |
+|LED - Green  Only takes 2.4 V max|Adafruit Industries LLC|LTST-C230KGKT|Digikey Link|Link| | | | | | | |
+|220 Ohm resistor surfacemount|YAGEO|CRCW12064K70FKEBC|Digikey Link|Link| | | | | | | |
+| | | | | | | | | | | | |
+|Motor and Motordriver BOM| | | | | | | | | | | |
 |0.033 µF ±10% 25V Ceramic Capacitor X7R 0805|Aillen|0805B333K250BD
-|Digikey Link|https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/datasheet/C317C333K5R5TA|Digi-Key| |
-|CAP ALUM 100UF 20% 25V SMD|Panasonic Electronic Components|EEE-FN1E101UV|Digikey Link|Link|Digi-Key| |
-|0.1 µF ±10% 50V Ceramic Capacitor X7R 1206|Murata|C1206S104K5RACAUTO |Digikey Link|https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/RCE_X7R_X7S_25V-100V_E.pdf|Digi-Key| |
-|40V 100Ma Diode|Vishay|M1MA141KT1G|Digikey Link|https://www.vishay.com/docs/88692/p600a.pdf|Digi-Key| |
-|Connector Header Through Hole 6 position 0.098" (2.50mm)|JST Sales America Inc.|B5B-XH-A(LF)(SN)|Digikey Link|https://www.jst-mfg.com/product/pdf/eng/eXH.pdf|Digi-Key| |
-|Connector Header Through Hole 12 position 0.100" (2.54mm)|Molex|10897120|https://www.digikey.com/en/products/detail/molex/0010897120/3068090?utm_adgroup=Rectangular%20Connectors%20-%20Headers%2C%20Male%20Pins&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Product_Connectors%2C%20Interconnects&utm_term=&utm_content=Rectangular%20Connectors%20-%20Headers%2C%20Male%20Pins&gclid=CjwKCAiA_6yfBhBNEiwAkmXy527MKLWE165Bp9hmMfFJlGqq9TtzHhh4biTQwDdpPpS8355i3XnRfRoCGQ8QAvD_BwE|https://www.molex.com/pdm_docs/sd/010897120_sd.pdf|PRLTA 109| |
-|5V DC MOTOR |Tsukasa|JSX5300-370|https://www.digikey.com/en/products/detail/aslong-motor/ASJGY-370-6-30/17141537|https://www.tsukasa-d.co.jp/en/data_download/english_catalogue.pdf|Digi-Key| |
-|Full Half-Bridge Drivers|Infineon Technologies|IFX9201SGAUMA1|https://www.digikey.com/en/products/detail/infineon-technologies/IFX9201SGAUMA1/5415542|https://www.infineon.com/dgdl/Infineon-IFX9201SG-DS-v01_01-EN.pdf?fileId=5546d4624cb7f111014d2e8916795dea&ack=t|PRLTA 109| |
-| | | | | | | |
-|Microcontroller and Voltage Regulator BOM| | | | | | |
-| LM2575 Voltage Regulator|Microchip|LM2575T-3.3GOS-ND|Mouser Link|Data sheet|PRLTA 109|N/A|
-|WSU050-4000 AC/DC Convertor|Triad Magnetics|533-WSU050-4000-R|Mouser Link|Datasheet|Mouser|553-WSU050-4000-R|
-|PIC16LF15376-I/PT Microcontroller|Microchip|PIC16F18876-I/PT|Digikey Link|Datasheet|Microchip|PIC16LF15376-I/PT|
-| | | | | | | |
-|Force Sensor| | | | | | |
-|IC ADC 24BIT SIGMA-DELTA 20TSSOP  3.4 V max|Microchip Technology|MCP3562RT-E/ST|Link|Link|DigiKey|MCP3562RT-E/ST|
-|Op-Amp for Force Sensor|Onsemi|NCV321SN3T1G|Link|Link|DigiKey|NCV321SN3T1G|
-|Sensors RoHS|UNEO|Uneo GHF10|Link|Link|UNEO|Uneo GHF10|
-|1K Ohm resistor surfacemount|TE Connectivity Passive Product|CRG1206F1K0|Link|Link|Digikey|A106070TR-ND|
+|Digikey Link|https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/datasheet/C317C333K5R5TA| | | | | | | |
+|CAP ALUM 100UF 20% 25V SMD|Panasonic Electronic Components|EEE-FN1E101UV|Digikey Link|Link| | | | | | | |
+|0.1 µF ±10% 50V Ceramic Capacitor X7R 1206|Murata|C1206S104K5RACAUTO |Digikey Link|https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/RCE_X7R_X7S_25V-100V_E.pdf| | | | | | | |
+|40V 100Ma Diode|Vishay|M1MA141KT1G|Digikey Link|https://www.vishay.com/docs/88692/p600a.pdf| | | | | | | |
+|Connector Header Through Hole 6 position 0.098" (2.50mm)|JST Sales America Inc.|B5B-XH-A(LF)(SN)|Digikey Link|https://www.jst-mfg.com/product/pdf/eng/eXH.pdf| | | | | | | |
+|Connector Header Through Hole 12 position 0.100" (2.54mm)|Molex|10897120|https://www.digikey.com/en/products/detail/molex/0010897120/3068090?utm_adgroup=Rectangular%20Connectors%20-%20Headers%2C%20Male%20Pins&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Product_Connectors%2C%20Interconnects&utm_term=&utm_content=Rectangular%20Connectors%20-%20Headers%2C%20Male%20Pins&gclid=CjwKCAiA_6yfBhBNEiwAkmXy527MKLWE165Bp9hmMfFJlGqq9TtzHhh4biTQwDdpPpS8355i3XnRfRoCGQ8QAvD_BwE|https://www.molex.com/pdm_docs/sd/010897120_sd.pdf| | | | | | | |
+|5V DC MOTOR |Tsukasa|JSX5300-370|https://www.digikey.com/en/products/detail/aslong-motor/ASJGY-370-6-30/17141537|https://www.tsukasa-d.co.jp/en/data_download/english_catalogue.pdf| | | | | | | |
+|Full Half-Bridge Drivers|Infineon Technologies|IFX9201SGAUMA1|https://www.digikey.com/en/products/detail/infineon-technologies/IFX9201SGAUMA1/5415542|https://www.infineon.com/dgdl/Infineon-IFX9201SG-DS-v01_01-EN.pdf?fileId=5546d4624cb7f111014d2e8916795dea&ack=t| | | | | | | |
+| | | | | | | | | | | | |
+|Microcontroller and Voltage Regulator BOM| | | | | | | | | | | |
+| LM2575 Voltage Regulator|Microchip|LM2575T-3.3GOS-ND|Mouser Link|Data sheet| | | | | | | |
+|WSU050-4000 AC/DC Convertor|Triad Magnetics|533-WSU050-4000-R|Mouser Link|Datasheet| | | | | | | |
+|PIC16LF15376-I/PT Microcontroller|Microchip|PIC16F18876-I/PT|Digikey Link|Datasheet| | | | | | | |
+| | | | | | | | | | | | |
+|Force Sensor| | | | | | | | | | | |
+|IC ADC 24BIT SIGMA-DELTA 20TSSOP  3.4 V max|Microchip Technology|MCP3562RT-E/ST|Link|Link| | | | | | | |
+|Op-Amp for Force Sensor|Onsemi|NCV321SN3T1G|Link|Link| | | | | | | |
+|Sensors RoHS|UNEO|Uneo GHF10|Link|Link| | | | | | | |
+|1K Ohm resistor surfacemount|TE Connectivity Passive Product|CRG1206F1K0|Link|Link| | | | | | | |
+
 
 ## Final Team Schematic
 
