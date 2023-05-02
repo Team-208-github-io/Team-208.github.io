@@ -1,7 +1,7 @@
 [<Back](https://team-208-github-io.github.io/Team-208/)
 
 # EGR 314 Team 208 Verification Table 
-* (Kyle Selasky, Felicia Szleszinski, Miles Wilson, Mingqi Yu)											
+* Kyle Selasky, Felicia Szleszinski, Miles Wilson, Mingqi Yu											
 
 | |EIKS AC-DC 5V 1A Wall Charger Power|Switching Voltage Regulator LM2575|Microcontroller PIC16F18876-I/PT|Force Sensor GHF-10|Force Sensor Op-Amp|ADC SPI for Force Sensor|Temp Sensor TC74A4|JSX5300-370 Motor|Motor Driver IFX9201SGAUMA1|
 |:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|
