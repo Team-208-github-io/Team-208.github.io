@@ -19,7 +19,7 @@
 
 **Preparation date:** 02/26/2023 
 
-**Inovation showcae date:** 04/28/2023
+**Innovation Showcase Dates:** 04/28/2023
 
 **Organization Information:**
 
