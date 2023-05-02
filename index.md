@@ -45,7 +45,7 @@
 
 **[8. Final Block Diagram](doc/BlockDiagram.md)**
 
-**[9. Final Hardware Implementation](doc/HardwareProposal.md)**
+**[9. Final Hardware Implementation](doc/FinalHardwareImplementation.md)**
 
 **[10. Final Software Implementation](doc/SoftwareProposal.md)**
 
