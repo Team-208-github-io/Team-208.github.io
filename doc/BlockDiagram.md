@@ -3,7 +3,7 @@
 
 # Block Diagram
 
-[Block Diagram_V4](https://user-images.githubusercontent.com/93965371/235585882-9bcac0f9-3372-46cd-b35b-27db9dcc84db.png)
+![Block Diagram_V4](https://user-images.githubusercontent.com/93965371/235585882-9bcac0f9-3372-46cd-b35b-27db9dcc84db.png)
 
 
 
