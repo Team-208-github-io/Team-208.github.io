@@ -87,10 +87,8 @@
 
 ## Front of Team PCB
 
-<div style="text-align: center">
 <img src="ttps://user-images.githubusercontent.com/93965371/235584936-033eb9b9-9dda-40e4-a097-e38e64e9803d.png>
-</div>
-
+       
 ## Back of Team PCB
 
 ![TSAP_V10_BACK](https://user-images.githubusercontent.com/93965371/235585057-340d5f08-fe59-4ed1-bea1-9b4dc06f512c.png)
