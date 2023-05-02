@@ -8,7 +8,9 @@ https://user-images.githubusercontent.com/93965371/235602662-6a508202-875c-45a4-
 
 [Video demosntration of the project](https://youtu.be/O8_9IP1zYKc)
 
-**FInal Project**
+**FInal Product**
 
-!(https://user-images.githubusercontent.com/93965371/235604958-a3827f45-7ddb-41f0-aa16-e559887f122f.png)
+![IMG_2218](https://user-images.githubusercontent.com/93965371/235605811-7484c177-40ea-4453-94c1-2d4eb6a18e56.jpg)
+
+
 
