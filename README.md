@@ -65,4 +65,6 @@
 
 [Link to "Team 208's Jan. 23 Checkpoint-1"](https://docs.google.com/presentation/d/1hgJn6WouZ5ktR1tikmxeMw9MUZq5OlJOVkCAVtTWgRQ/edit?usp=sharing)
 
+[Link to "Team 208's Verification Table"] (https://docs.google.com/spreadsheets/d/1MbYpHdRg1263v5kpPapXVnJQL_PWd12w/edit#gid=1199340293) 
+
 Date: 02/26/2023 
