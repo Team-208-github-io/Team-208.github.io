@@ -29,25 +29,25 @@
 
 # Table of contents:
 
-## [Introduction](doc/Introduction.md)
+**[1. Introduction](doc/Introduction.md)**
 
-**[1. Team Organization](doc/TeamOrganization.md)**
+**[2. Team Organization](doc/TeamOrganization.md)**
 
-**[2. User Needs, Benchmarking, and Requirements](doc/UserNeeds.md)**
+**[3. User Needs, Benchmarking, and Requirements](doc/UserNeeds.md)**
 
-**[3. Product Requirements](doc/ProductRequirements.md)**
+**[4. Product Requirements](doc/ProductRequirements.md)**
 
-**[4. Design Ideation](doc/DesignIdeation.md)**
+**[5. Design Ideation](doc/DesignIdeation.md)**
  
-**[5. Final Selected Design](doc/SelectedDesign.md)**
+**[6. Final Selected Design](doc/SelectedDesign.md)**
 
-**[6. Final Component Selection](doc/ComponentSelection.md)**
+**[7. Final Component Selection](doc/ComponentSelection.md)**
 
-**[7. Final Block Diagram](doc/BlockDiagram.md)**
+**[8. Final Block Diagram](doc/BlockDiagram.md)**
 
-**[8. Final Hardware Implementation/Hardware Proposal](doc/HardwareProposal.md)**
+**[9. Final Hardware Implementation/Hardware Proposal](doc/HardwareProposal.md)**
 
-**[9. Final Software Proposal/Software Implementation](doc/SoftwareProposal.md)**
+**[10. Final Software Proposal/Software Implementation](doc/SoftwareProposal.md)**
 
 **[11. System Verification](doc/SystemVerification.md)**
 
