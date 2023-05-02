@@ -29,13 +29,13 @@
 
 # Table of contents:
 
-**[1. Team Organization](doc/TeamOrganization.md)
+**[1. Team Organization](doc/TeamOrganization.md)**
 
-**[2. User Needs, Benchmarking, and Requirements](doc/UserNeeds.md)
+**[2. User Needs, Benchmarking, and Requirements](doc/UserNeeds.md)**
 
-**[3. Product Requirements](doc/ProductRequirements.md)
+**[3. Product Requirements](doc/ProductRequirements.md)**
 
-**[4. Design Ideation](doc/DesignIdeation.md)
+**[4. Design Ideation](doc/DesignIdeation.md)**
 
 [5. Presentation 1](https://www.youtube.com/watch?v=2TSZasZKMRI)
  
