@@ -6,7 +6,7 @@
 
 **Rationale:**
 
-* After comparing the design of the three microcontrollers, Team 208 decided upon utilizing PIC16F18876. Despite having fewer built in SPI’s compared to the other options, the amount of available ADC pins as well as a multitude of design applications on Microchip's website made this microcontroller the perfect choice for our design. The 36 available IC pins allow for a larger amount of design flexibility when choosing how many sensors we will be implementing. These pins also allow for the flexibility of adding extra test points for future debugging. With the numerous documents on Microchip’s website and support, this chip was the best selection for our team.
+* After comparing the design of the three microcontrollers, Team 208 decided upon utilizing **PIC16LF15376-I/PT**. Despite having fewer built in SPI’s compared to the other options, the amount of available ADC pins as well as a multitude of design applications on Microchip's website made this microcontroller the perfect choice for our design. The 36 available IC pins allow for a larger amount of design flexibility when choosing how many sensors we will be implementing. These pins also allow for the flexibility of adding extra test points for future debugging. With the numerous documents on Microchip’s website and support, this chip was the best selection for our team.
 
 <table>
   <tr>
