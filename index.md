@@ -19,7 +19,7 @@
 
 **Preparation date:** 02/26/2023 
 
-**Innovation Showcase Dates:** 04/28/2023
+**Inovation showcae date:** 04/28/2023
 
 **Organization Information:**
 
@@ -86,6 +86,10 @@
 [Link to "Team 208's Jan. 26 MPLAB"](https://drive.google.com/file/d/1nDP8JixQ91Ch6AFLqdIlS3i-IN7m-84g/view?usp=share_link) 
 
 [Link to "Team 208's Jan. 23 Checkpoint-1"](https://docs.google.com/presentation/d/1hgJn6WouZ5ktR1tikmxeMw9MUZq5OlJOVkCAVtTWgRQ/edit?usp=sharing)
+
+[Link to "Team 208's Verification Table"](https://docs.google.com/spreadsheets/d/1MbYpHdRg1263v5kpPapXVnJQL_PWd12w/edit#gid=1199340293) 
+
+[Link to "Team 208's April 27 MPLAB"](https://drive.google.com/drive/u/2/folders/1MYIu6_AZAAcsMT3eeNksZkND2AwtgOII) 
 
 
 Last update: 05/1/2023 
