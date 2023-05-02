@@ -53,9 +53,9 @@
 
 **[13. System Verification](doc/SystemVerification.md)**
 
-**14. Lessons Learned**
+**[14. Lessons Learned](doc/LessonsLearned.md)**
 
-**15. Recommendations for Future Students**
+**[15. Recommendations for Future Students](doc/Recommendations.md)**
 
 ## Appendix A
 
