@@ -33,7 +33,7 @@
 
 [2. User Needs, Benchmarking, and Requirements](doc/UserNeeds.md)
 
-## [3. Product Requirements](doc/ProductRequirements.md)
+# [3. Product Requirements](doc/ProductRequirements.md)
 
 ## [4. Design Ideation](doc/DesignIdeation.md)
 
@@ -86,4 +86,4 @@
 [Link to "Team 208's Jan. 23 Checkpoint-1"](https://docs.google.com/presentation/d/1hgJn6WouZ5ktR1tikmxeMw9MUZq5OlJOVkCAVtTWgRQ/edit?usp=sharing)
 
 
-Date: 02/26/2023 
+Last update: 05/1/2023 
