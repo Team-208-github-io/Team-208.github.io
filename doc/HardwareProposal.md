@@ -1,5 +1,5 @@
 
-[<Back](https://team-208-github-io.github.io/Team-208/)
+[<Back](https://team-208-github-io.github.io/egr314-team208.github.io/)
 
 # Hardware Proposal: 
 
