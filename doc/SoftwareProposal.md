@@ -7,6 +7,8 @@
 **Description:**
 * For this project we decided to break up our software proposal into multiple different sections as we believed it would be easier for readers of this report to understand\. Each section shows how that part will operate and what it does as well\. We have the main loop showing how the overall process will happen along with the chain showing how the wifi will communicate with UART and the ESP32 device\.  The LED loop shows how many LEDs will turn on depending on how much force is applied to an object by a user when they are wearing the glove\. Depending on how much force is applied either the green or the red LED will then turn on\. The team used only one interrupt to run the update motor function every second\. The indecation from either the red or green LED turning on will allow the user to know if they are applying to much pressure to a object andthis will serve as a warning preventing something from getting crsuhed or broken sastifying user needs\. The product requirements called for a device that can sense two different variables\. Our glove is able to sense both temperature and pressure\.
 
+
+
 <img width="432" alt="image" src="https://user-images.githubusercontent.com/122709159/235581557-0d82040f-bf74-4ff4-b5c8-7444821b8827.png">
 
  `````  
@@ -170,3 +172,18 @@ void main(void)
     }
 }
 `````      
+**MCC configuration setting：**
+
+<img width="1279" alt="image" src="https://user-images.githubusercontent.com/122709159/235582326-1cb87efb-0ab6-4bb6-9de8-4c3422dfee22.png">
+
+<img width="634" alt="image" src="https://user-images.githubusercontent.com/122709159/235582448-8322e45b-7432-4521-8e0e-3ecb381737d0.png">
+
+<img width="631" alt="image" src="https://user-images.githubusercontent.com/122709159/235582464-fc8a8991-16d1-4f74-b896-e2c5411afd51.png">
+
+<img width="633" alt="image" src="https://user-images.githubusercontent.com/122709159/235582479-eb2bd1c7-9d19-4173-aaf9-b7af810dced8.png">
+
+<img width="627" alt="image" src="https://user-images.githubusercontent.com/122709159/235582494-bc6100e3-2940-4c34-b514-acadd31e97cb.png">
+
+<img width="629" alt="image" src="https://user-images.githubusercontent.com/122709159/235582504-da03b92e-a1e9-40b7-b311-a00262da11ec.png">
+
+
