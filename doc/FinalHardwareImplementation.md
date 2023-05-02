@@ -1,5 +1,7 @@
 [<Back](https://team-208-github-io.github.io/egr314-team208.github.io/)
 
+# Final Hardware Implementation
+
 **Bill of Materials Page 1**
 
 |Part Name/Description|Unit Quantity|Unit Prototype Cost|Total Prototype Cost|Unit Production Cost|Total Production Cost|
