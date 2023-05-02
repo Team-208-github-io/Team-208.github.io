@@ -33,8 +33,6 @@
 
 ## [4. Design Ideation](doc/DesignIdeation.md)
 
-![image](https://user-images.githubusercontent.com/122709159/224907563-c8e903c7-a6f2-4efb-92af-207290f267f0.png)
-
 ## [5. Presentation 1](https://www.youtube.com/watch?v=2TSZasZKMRI)
 
 ![Jan  23 Checkpoint-1](https://user-images.githubusercontent.com/122709159/213969216-e0314781-86c9-40dc-9be9-0322e4fc1f9b.jpg)
