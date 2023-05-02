@@ -65,7 +65,7 @@
 
 [Link to "Team 208's Design Ideation"](https://github.com/Team-208-github-io/Team-208/files/10856875/Design.Ideation.pdf)
 
-[Link to "Team 208's Block Diagram"]()![Block Diagram_V5](https://user-images.githubusercontent.com/93965371/235589509-7361db70-c4dc-418a-9ac0-34930ac5d113.png)
+[Link to "Team 208's Block Diagram"]([Block Diagram_V5.pdf](https://github.com/Team-208-github-io/egr314-team208.github.io/files/11370123/Block.Diagram_V5.pdf)
 
 [Link to "Team 208's Component Selection"](https://github.com/Team-208-github-io/Team-208/files/10856889/Component.Selection.pdf)
 
