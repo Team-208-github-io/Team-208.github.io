@@ -67,7 +67,7 @@
 
 [Component Selection](doc/ComponentSelection.md)**
 
-[Link to "Team 208's Microcontroller Selection"](https://github.com/Team-208-github-io/Team-208/files/10856890/microcontroller-selection-table.docx.pdf)
+[Link to "Team 208's Microcontroller Selection"]((https://github.com/Team-208-github-io/egr314-team208.github.io/files/11371331/microcontroller-selection-table.docx.pdf)
 
 [Microcontroller Selection](doc/MicrocontrollerSelection.md)
 
