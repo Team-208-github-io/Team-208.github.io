@@ -77,7 +77,7 @@
 
 [Link to "Team 208's Verification Table"](https://github.com/Team-208-github-io/Team-208/files/10856922/Verification.Table.-.Sheet1.pdf)
 
-[Link to "Team 208's Team 208 BOM"](https://github.com/Team-208-github-io/Team-208/files/10856927/Team.208.BOM.xlsx.-.Sheet1.pdf)
+[Link to "Team 208's Team 208 BOM"]([Team 208 BOM.xlsx - Google Sheets.pdf](https://github.com/Team-208-github-io/egr314-team208.github.io/files/11371288/Team.208.BOM.xlsx.-.Google.Sheets.pdf)
 
 [Link to "Team 208's Team and Individual Cadence Subsystems"](https://drive.google.com/drive/folders/13jUH9Vl2aOTExGctnM7fT20rFPp-uSIZ?usp=sharing)
 
