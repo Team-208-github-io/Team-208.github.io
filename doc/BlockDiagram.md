@@ -3,7 +3,8 @@
 
 # Block Diagram
 
-![Final Block Diagram-1](https://user-images.githubusercontent.com/93965371/234103237-aca36fb2-8937-4e8e-8a5d-d2c0bb4f0fea.png)
+![Final Block Diagram-1](![Block Diagram_V4](https://user-images.githubusercontent.com/93965371/235585882-9bcac0f9-3372-46cd-b35b-27db9dcc84db.png)
+
 
 
 
