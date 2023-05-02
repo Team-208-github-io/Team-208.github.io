@@ -7,7 +7,7 @@
 |:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|
 |EIKS AC-DC 5V 1A Wall Charger Power|v (VG, 04/19/2023)|v (VG, 04/19/2023)|nc|nc|nc|nc|nc|nc|nc|
 |Switching Voltage Regulator LM2575| |v (VG, 04/19/2023)|v (VG, 04/19/2023)|nc|nc|nc|nc|nc|nc|
-|Microcontroller PIC16F18876-I/PT| | |v (VG, 04/19/2023)|nc|nc|v (VG, 04/20/2023)|v(VG, 04/19/2023)|nc|v (VG, 04/19/2023)|
+|Microcontroller PIC16LF1576-I/PT| | |v (VG, 04/19/2023)|nc|nc|v (VG, 04/20/2023)|v(VG, 04/19/2023)|nc|v (VG, 04/19/2023)|
 |Force Sensor GHF-10| | | |v (VG, 04/20/2023)|v (VG, 04/20/2023)|nc|nc|nc|nc|
 |Force Sensor Op-Amp| | | | |v (VG, 04/20/2023)|v (VG, 04/20/2023)|nc|nc|nc|
 |ADC SPI for Force Sensor| | | | | |u|nc|nc|nc|
@@ -19,6 +19,10 @@
 |x|connection verified by you| | | | | | | | |
 |v (XYZ, 1/23/45)|connection verified by instructors (INITIALS, date)| | | | | | | | |
 |(xyz)|serial protocol| | | | | | | | |
+
+# Decision making process
+  Our decision making process was to include components that would allow us to meet the project requirements. For our glove we include an LM2575 surrace mount voltage regulator that takes 5V and outputs at 3.3 V. Our PIC16LF1576-I/PT has 44 pins and is able to communicate in both SPI and USART, meeting the requirments for the communication protocl. Our temperature snesor and force sensor helps us meet he requirmenets to have two different environmental sensors
+
 
 # System Working at the ASU Innovation Showcase:
 
