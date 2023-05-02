@@ -2,7 +2,41 @@
 
 **Bill of Materials Page 1**
 
-![Team 208 BOM xlsx - Sheet1-1](https://user-images.githubusercontent.com/93965371/235584370-83d68871-24fd-43c6-bfcd-4d8cadc4a723.png)
+|Part Name/Description|Unit Quantity|Unit Prototype Cost|Total Prototype Cost|Unit Production Cost|Total Production Cost|
+|:----|:----|:----|:----|:----|:----|
+|Temperature Sensor Digital BOM| | | | | |
+|0.1 µF Ceramic Capacitor, +/-10%, X7R, 50V, 0805 package|4|$0.45|$1.80|$0.81|$1.46|
+|10K Ohm resistor surfacemount |4|$0.39|$1.56|$0.61|$0.95|
+|Temperature Sensor Digital|4|$1.09|$4.36|$1.09|$4.36|
+|Barrel Jack|2|$0.00|$0.00|$0.00|$0.00|
+|4.7K Ohm resistor surfacemount|2|$0.10|$0.20|$0.20|$0.20|
+| | | | | | |
+|Shared Test Points BOM| | | | | |
+|Test Points|6|$0.42|$2.52|$0.00|$2.52|
+|LED - Green  Only takes 2.4 V max|2|$0.31|$0.62|$0.00|$0.62|
+|220 Ohm resistor surfacemount|4|$0.00|$0.00|$0.00|$0.00|
+| | | | | | |
+|Motor and Motordriver BOM| | | | | |
+|0.033 µF ±10% 25V Ceramic Capacitor X7R 0805|4|$0.34|$1.36|$0.00|$0.00|
+|CAP ALUM 100UF 20% 25V SMD|4|$0.29|$1.16|$0.00|$0.00|
+|0.1 µF ±10% 50V Ceramic Capacitor X7R 1206|4|$0.46|$0.92|$0.00|$0.00|
+|40V 100Ma Diode|2|$0.80|$1.60|$0.00|$0.00|
+|Connector Header Through Hole 6 position 0.098" (2.50mm)|2|$0.27|$0.54|$0.00|$0.00|
+|Connector Header Through Hole 12 position 0.100" (2.54mm)|2|$0.00|$0.00|$0.00|$0.00|
+|5V DC MOTOR |1|$14.99|$14.99|$0.00|$14.99|
+|Full Half-Bridge Drivers|2|$4.88|$9.76|$0.00|$0.00|
+| | | | | | |
+|Microcontroller and Voltage Regulator BOM| | | | | |
+| LM2575 Voltage Regulator|6|$3.00|$18.00|$0.00|$0.00|
+|WSU050-4000 AC/DC Convertor|1|$14.41|$14.41|$0.00|$0.00|
+|PIC16LF15376-I/PT Microcontroller|6|$2.04|$12.24|$0.00|$0.00|
+| | | | | | |
+|Force Sensor| | | | | |
+|IC ADC 24BIT SIGMA-DELTA 20TSSOP  3.4 V max|2|$4.88|$9.76|$4.88|$9.76|
+|Op-Amp for Force Sensor|2|$0.88|$1.76|$0.88|$1.76|
+|Sensors RoHS|2|$10.86|$21.72|$10.86|$21.72|
+|1K Ohm resistor surfacemount|2|$0.10|$0.20|$0.10|$0.20|
+
 
 **Bill of Materials Page 2**
 
