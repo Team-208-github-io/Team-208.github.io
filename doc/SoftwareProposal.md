@@ -8,6 +8,13 @@
 * For this project we decided to break up our software proposal into multiple different sections as we believed it would be easier for readers of this report to understand\. Each section shows how that part will operate and what it does as well\. We have the main loop showing how the overall process will happen along with the chain showing how the wifi will communicate with UART and the ESP32 device\.  The LED loop shows how many LEDs will turn on depending on how much force is applied to an object by a user when they are wearing the glove\. Depending on how much force is applied either the green or the red LED will then turn on\. The team used only one interrupt to run the update motor function every second\. The indecation from either the red or green LED turning on will allow the user to know if they are applying to much pressure to a object andthis will serve as a warning preventing something from getting crsuhed or broken sastifying user needs\. The product requirements called for a device that can sense two different variables\. Our glove is able to sense both temperature and pressure\.
 
 
+**User Needs:**
+ * Our users needed a device that could record and broadcast in both SPI and UART and had WIFI connectivity. Through the use of the ESP32 we are able to communicate with UART via WIFI to an MQTT server in order to record and boradcast information.  The main loop will start and initailize the system, reading the data from each force sensor over SPI and the temperature sensor over I2C. BAsed on those then the LED on top of the glove will then light up abd the data will be sent over MQTT. Using a bang-bang controller and temperature sensor data along witht he force sensor controller then the motor will activate and start to slowly pull back the fingers. 
+ 
+ **Design process:**
+ * Our desing process was to keep things as simple as possible. If a docotr or user for some reason needed to acces the code in orde to make changes to such things as the motor speed then we would want them to be able to easily understand, and access the code. 
+
+
 
 
  `````  
