@@ -47,7 +47,7 @@
 |1K Ohm resistor surfacemount|2|$0.10|$0.20|$0.10|$0.20|
 
 
-**Bill of Materials Page 2**
+## Bill of Materials Page 2
 
 |Part Name/Description|Manufacturer|Manufacturer Part #|Datasheet Link|
 |:----|:----|:----|:----|
