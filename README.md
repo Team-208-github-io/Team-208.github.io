@@ -19,15 +19,17 @@
 * Class: _EGR314: Embedded Systems Design Project II_
 * Professor: _Daniel Aukes_
 
-## [1. Team Organization](doc/TeamOrganization.md)
+## [1. Introduction](doc/Introduction.md)
 
-## [2. User Needs, Benchmarking, and Requirements](doc/UserNeeds.md)
+## [2. Team Organization](doc/TeamOrganization.md)
 
-## [3. Product Requirements](doc/ProductRequirements.md)
+## [3. User Needs, Benchmarking, and Requirements](doc/UserNeeds.md)
 
-## [4. Design Ideation](doc/DesignIdeation.md)
+## [4. Product Requirements](doc/ProductRequirements.md)
 
-## [5. Presentation 1](https://www.youtube.com/watch?v=2TSZasZKMRI)
+## [5. Design Ideation](doc/DesignIdeation.md)
+
+## [6. Presentation 1](https://www.youtube.com/watch?v=2TSZasZKMRI)
  
 ## [7. Selected Design](doc/SelectedDesign.md)
 
