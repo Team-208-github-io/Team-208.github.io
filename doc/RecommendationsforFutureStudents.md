@@ -1,4 +1,4 @@
-[<Back](https://team-208-github-io.github.io/Team-208/)
+[<Back](https://team-208-github-io.github.io/egr314-team208.github.io/)
 1. Cadence and KiCad are somewhat different in that they are more powerful. But at the same time it can be more difficult to operate. Read the relevant websites given by your professor and follow the material step by step. They will occasionally have software crashes or errors, remember to save available files often. Be sure to always ask TAs for help in case of problems.
 
 2. Coordinate with your team. Communicate more often. Let them know as soon as possible if there is any content or things that need to be improved. They depend on you as much as you depend on them.
