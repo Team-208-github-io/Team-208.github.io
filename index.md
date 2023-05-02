@@ -47,7 +47,7 @@
 
 **[9. Final Hardware Implementation](doc/FinalHardwareImplementation.md)**
 
-**[10. Final Software Implementation](doc/SoftwareProposal.md)**
+**[10. Final Software Implementation](doc/FinalSoftwareImplementation.md)**
 
 **[11. System Verification](doc/SystemVerification.md)**
 
