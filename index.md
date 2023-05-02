@@ -59,7 +59,7 @@
 
 **[12. Lessons Learned](doc/LessonsLearned.md)**
 
-**[13. Recommendations for Future Students](doc/Recommendations.md)**
+**[13. Recommendations for Future Students](doc/RecommendationsforFutureStudents.md)**
 
 **[Presentation 1](https://www.youtube.com/watch?v=2TSZasZKMRI)**
 
