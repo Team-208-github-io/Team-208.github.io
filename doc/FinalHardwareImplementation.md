@@ -4,8 +4,10 @@
 
 ![Bill of Materials Page 3](![Team 208 BOM xlsx - Sheet1-3](https://user-images.githubusercontent.com/93965371/235584532-2e7f0bda-51b2-472a-a73c-ed9b5c4287fe.png)
 
-![Bill of Materials Page 4](![Team 208 BOM xlsx - Sheet1-4](https://user-images.githubusercontent.com/93965371/235584587-a282c4df-7585-4ddb-9891-a91663e029dc.png)
-)
+![Front of Team PCB](![TSAP_V10_FRONT](https://user-images.githubusercontent.com/93965371/235584936-033eb9b9-9dda-40e4-a097-e38e64e9803d.png)
+
+![BAck of Team PCB](![TSAP_V10_BACK](https://user-images.githubusercontent.com/93965371/235585057-340d5f08-fe59-4ed1-bea1-9b4dc06f512c.png)
+
 
 
 
