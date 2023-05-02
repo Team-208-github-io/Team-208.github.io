@@ -7,3 +7,5 @@
 4. If you don't know enough about the chip you want to use, look up the relevant information and schematics online and make sure they are feasible before you choose to buy and use them.
 
 5. The assignments for the beginning of the semester are relatively simple. Don't be fooled by their tiny scores, the actual content of each assignment is very important and they can even influence your future work. Trust us they can teach you a lot of knowledge and also to know how to solve it while you are building your project.
+
+6. It is strongly recommended that incoming students review the C/C++ languages. While writing functional code for each individual subsystem may be relatively straightforward, the more challenging aspect lies in identifying the appropriate locations for applying interrupts and debugging the code. We encountered instances where the code worked for one subsystem but not for others. Enhancing one's coding proficiency can be a valuable asset in achieving success.
