@@ -1,3 +1,4 @@
+[<Back](https://team-208-github-io.github.io/Team-208/)
 1. When ordering components, it is essential to consider the manufacturing constraints and limitations, as certain components may have extended lead times   or may not be compatible with other components.
 
 2. It is crucial to conduct a thorough review of the data sheets, to ensure that the designated microcontroller is compatible with the intended circuit      voltage level for programming purposes.
