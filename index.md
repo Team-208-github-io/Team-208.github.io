@@ -29,7 +29,7 @@
 
 # Table of contents:
 
-**[Introduction](doc/Introduction.md)**
+## [Introduction](doc/Introduction.md)
 
 **[1. Team Organization](doc/TeamOrganization.md)**
 
