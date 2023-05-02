@@ -2,9 +2,9 @@
 
 # Selected Design
 
-**Current Design Description:**
+**Design Description:**
 
-* The selected design is based mostly on the balloon grip sensor, with aspects from the other two designs.
+The selected design is based mostly on the balloon grip sensor, with aspects from the other two designs.
 This new design will have two force sensors on the end of the index finger and the inside of the thumb.
 These sensors will be in place of the balloon pressure sensor. The team decided that the balloon would be too complex to manufacture and calibrate. 
 The temperature sensor will be on the palm of the glove, this will sense if something is too hot to be touching. 
@@ -25,8 +25,9 @@ Instead this device will be designed to be used in physical therapy settings wit
 
 * Control Box Description: The control box will have two holes near the bottom. One for the signal, power, and ground wires that lead to the glove, and the other for the wall power supply. The box also features three holes for the three indicator LEDs. 
 
-** Final Selected Design**
-  * The final design is similar to the selected design, with only a few changes. One of the resistive bands was removed from the thumb due to the unique bone structure and movement range, as well as time constraints. Additionally, we had to update the sensor placement due to software issues. Originally, we had planned for one pressure sensor to be placed on the index finger and thumb, with the temperature sensor in the palm. However, we had to make a last-minute change and place the temperature sensor in the middle finger. This change was made to ensure that the motor on the top of the hand could pull the rubber bands back, relaxing the fingers and preventing injury to the user when they are grabbing something hot.
+**Final Selected Design**
+
+The final design is similar to the selected design, with only a few changes. One of the resistive bands was removed from the thumb due to the unique bone structure and movement range, as well as time constraints. Additionally, we had to update the sensor placement due to software issues. Originally, we had planned for one pressure sensor to be placed on the index finger and thumb, with the temperature sensor in the palm. However, we had to make a last-minute change and place the temperature sensor in the middle finger. This change was made to ensure that the motor on the top of the hand could pull the rubber bands back, relaxing the fingers and preventing injury to the user when they are grabbing something hot. The subsystems and electrical design are exactly the same as stated above.
 
 **Drawing of Glove**
 
