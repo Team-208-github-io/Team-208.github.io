@@ -9,7 +9,7 @@
 ## Hardware Description:
 * Having a requirement of 5V for power input the LM2575 voltage regulator takes in 5V and outputs that at 3.3 V. The power then goes to a barrel jack where the glove is plugged into in order to deliver power. Since the pressure sensor is a passive resistor, it outputs an analog signal. An ADC took the analog signal and converted it into a digital communication protocol so we could communicate with the glove using SPI. An array of 3 LEDs was connected to the temperature sensor. As the temperature increased the LEDs would light up, with a higher temperature corresponding to more LEDs lighting up. Using UART communication protocol the Motor driver enabled bidirectional movement of the motor. When the temperature or force applied was to high then the motor would turn and pull the resistive bands back, causing the fingers to be pulled back. The microcontroller could communicate in all required communication protocols in order to help the system run.  It had 44 pins with a mixture of GPIO and test points. The ESP32 allowed for communication to an MQTT server via WIFI. All parts with the exception of the ESP32 were surface mount components.
 
-**Bill of Materials Page 1**
+## Bill of Materials Page 1
 
 |Part Name/Description|Unit Quantity|Unit Prototype Cost|Total Prototype Cost|Unit Production Cost|Total Production Cost|
 |:----|:----|:----|:----|:----|:----|
