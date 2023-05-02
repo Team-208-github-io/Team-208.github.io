@@ -9,6 +9,7 @@
 
 
 
+## MPLAB Main.C Code: 
 
  `````  
 #include <stdbool.h>
@@ -171,7 +172,7 @@ void main(void)
     }
 }
 `````      
-**MCC configuration setting：**
+## MCC configuration setting：
 
 <img width="1279" alt="image" src="https://user-images.githubusercontent.com/122709159/235582326-1cb87efb-0ab6-4bb6-9de8-4c3422dfee22.png">
 
@@ -185,7 +186,7 @@ void main(void)
 
 <img width="629" alt="image" src="https://user-images.githubusercontent.com/122709159/235582504-da03b92e-a1e9-40b7-b311-a00262da11ec.png">
 
-**MQTT topic table setting：**
+## MQTT topic table setting：
 
 <img width="432" alt="image" src="https://user-images.githubusercontent.com/122709159/235581557-0d82040f-bf74-4ff4-b5c8-7444821b8827.png">
 
