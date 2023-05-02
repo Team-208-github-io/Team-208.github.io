@@ -57,6 +57,8 @@
 
 **[Presentation 1](https://www.youtube.com/watch?v=2TSZasZKMRI)**
 
+**[Product Showcase](doc/ProductShowcase.md)**
+
 # Appendix A
 
 [Link to "Team 208's Charter"](https://github.com/Team-208-github-io/Team-208/files/10844546/Team.208.s.Charter.pdf)
