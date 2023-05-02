@@ -75,7 +75,8 @@
 
 [Link to "Team 208's Hardware Proposal"](https://github.com/Team-208-github-io/Team-208/files/10964653/Hardware.Proposal.pdf)
 
-[Link to "Team 208's Verification Table"]((https://github.com/Team-208-githubio/egr314team208.github.io/files/11371408/208.verification.table.xlsx.-.Google.Sheets.pdf)
+[Link to "Team 208's Verification Table"](https://github.com/Team-208-github-io/egr314-team208.github.io/files/11371425/208.verification.table.xlsx.-.Sheet1.pdf)
+)
 
 [Link to "Team 208's Team 208 BOM"](https://github.com/Team-208-github-io/egr314-team208.github.io/files/11371288/Team.208.BOM.xlsx.-.Google.Sheets.pdf)
 
