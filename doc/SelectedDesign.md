@@ -26,7 +26,7 @@ Instead this device will be designed to be used in physical therapy settings wit
 * Control Box Description: The control box will have two holes near the bottom. One for the signal, power, and ground wires that lead to the glove, and the other for the wall power supply. The box also features three holes for the three indicator LEDs. 
 
 ** Final Selected Design**
-  * The final design is pratically the same as the selected design. The only change we made was removing one of the resistive bands from the thumb on the user's hands. Do to the thumbs unique bone strucutre along with movement range, time constraints our team decided to drop that proposal. In future designs we would absolutely consider adding a resisitive band back onto the thumb.
+  * The final design is similar to the selected design, with only a few changes. One of the resistive bands was removed from the thumb due to the unique bone structure and movement range, as well as time constraints. Additionally, we had to update the sensor placement due to software issues. Originally, we had planned for one pressure sensor to be placed on the index finger and thumb, with the temperature sensor in the palm. However, we had to make a last-minute change and place the temperature sensor in the middle finger. This change was made to ensure that the motor on the top of the hand could pull the rubber bands back, relaxing the fingers and preventing injury to the user when they are grabbing something hot.
 
 **Drawing of Glove**
 
