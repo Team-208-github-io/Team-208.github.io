@@ -51,7 +51,7 @@
 
 [Link to "Team 208's Design Ideation"](https://docs.google.com/document/d/1rwlRUkhHN8_KuPjEGyNR5eVbSKwuBbHuJvOcQV-REok/edit?usp=sharing)
 
-[Link to "Team 208's Block Diagram"](https://drive.google.com/drive/folders/1gePIfOKmyoVRG5gJwy18oY0E-uoj2G0x?usp=sharing)
+[Link to "Team 208's Block Diagram"](![Block Diagram-314 drawio](https://user-images.githubusercontent.com/93965371/235588156-b38557dd-fa2d-4db5-9124-1cde92c7edbd.png)
 
 [Link to "Team 208's Component Selection"](https://docs.google.com/document/d/1gxGf24RzSkaN4OhA51xZnK4SLqWebUAFRwf6iaRm7Ko/edit)
 
