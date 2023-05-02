@@ -41,7 +41,7 @@
  
 **[6. Final Selected Design](doc/SelectedDesign.md)**
 
-**[7. Final Component Selection](doc/ComponentSelection.md)**
+**[7. Final Component Selection](doc/FinalComponentSelection.md)**
 
 **[8. Final Block Diagram](doc/BlockDiagram.md)**
 
@@ -68,6 +68,8 @@
 [Link to "Team 208's Block Diagram"](https://github.com/Team-208-github-io/Team-208/files/10964667/Block.Diagram-314.drawio.pdf)
 
 [Link to "Team 208's Component Selection"](https://github.com/Team-208-github-io/Team-208/files/10856889/Component.Selection.pdf)
+
+[Component Selection](doc/ComponentSelection.md)**
 
 [Link to "Team 208's Microcontroller Selection"](https://github.com/Team-208-github-io/Team-208/files/10856890/microcontroller-selection-table.docx.pdf)
 
